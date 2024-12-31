@@ -28,6 +28,8 @@ TODO
 ## General Resources
 
 - [Aikido-FAQ](http://www.aikidofaq.com/) - A major website with loads of content by Kjartan Clausen.
+- [Aikiweb](http://www.aikiweb.com/) - A major website 
+- [Seido](https://www.youtube.com/user/BudoExport) - more than 1000 videos
 
 ---
 
@@ -38,6 +40,12 @@ TODO
   - [Stanley Pranin introduces "Aikido History 101"](https://www.youtube.com/watch?v=FXXdl5gjSKk)
   - [Morihei Ueshiba and Sokaku Takeda](https://www.youtube.com/watch?v=b9R0PNwcrUw)
   - [An introduction to Koichi Tohei](https://www.youtube.com/watch?v=oDLTeruzbsg)
+  - [Takemusu-Aiki](https://www.youtube.com/watch?v=YtkG2yKqCbQ)
+  - [Divine Techniques](https://www.youtube.com/watch?v=eiXlsEVehtQ)
+  - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U)
+  - [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ)
+  - [Rare footage 1935](https://www.youtube.com/watch?v=mdnN5SQy6Rs)
+  - [1952 Aikido Rare Footage O-Sensei & Uchi-deshi](https://www.youtube.com/watch?v=aBIYSgRsn14&list=RDQMrzLZgeZCXIc&index=25)
 
 ---
 
@@ -54,7 +62,8 @@ TODO
 - [Angry White Pyjamas](https://www.goodreads.com/book/show/198051.Angry_White_Pyjamas) by Robert Twigger.
 - [Aikido Principles](https://www.stenudd.com/aikido/aikidoprinciples-book.htm) - by Stefan Stenudd
 - [Dueling with O-Sensei](https://www.goodreads.com/book/show/31671372-dueling-with-o-sensei) by Ellis Amdur
-- [Aikido](https://www.goodreads.com/book/show/1789881.Aikido?from_search=true&from_srp=true&qid=yWjerSJmLc&rank=7) by Koichi Tohei 
+- [Aikido](https://www.goodreads.com/book/show/1789881.Aikido?from_search=true&from_srp=true&qid=yWjerSJmLc&rank=7) by Koichi Tohei
+- [This is Aikido](https://www.goodreads.com/book/show/1789875.This_Is_Aikido_With_Mind_and_Body_Coordinated) by Koichi Tohei
 - [It's a lot like dancing](https://www.goodreads.com/book/show/649145.It_s_a_Lot_Like_Dancing?ac=1&from_search=true&qid=PFjcGQP4uD&rank=1) by Terry Dobson
 - [Aikido Exercises for Teaching and Training](https://www.goodreads.com/book/show/81968.Aikido_Exercises_for_Teaching_and_Training?ac=1&from_search=true&qid=k5SbnpCGtv&rank=1)
 - [Budo: Teachings of the Founder of Aikido by John Stevens](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5)
@@ -82,11 +91,13 @@ TODO
 - [Channel by Stefan Stenudd](https://www.youtube.com/c/stefanstenudd) - Stefan Stenudd's Channel on Youtube.
 - [Channel by Shirakawa Ryuji](https://www.youtube.com/@Shinburenseijyuku) - Shirakawa Ryuji's Channel on Youtube.
 - [Channel by Guilleaume Erard](https://www.youtube.com/@guillaumeerard) - G. Erard's Channel on Youtube.
-  - [Interview with Andre Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
+  - [Interview with André Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
+  - [Morihei Ueshiba O Sensei - Rare Aikido Demonstration (1957) 合気道植芝 盛平](https://www.youtube.com/watch?v=30Sa0PLquFg)
+  - [1954 Aikido O Sensei](https://www.youtube.com/watch?v=tZcDc1ZYEgw)
 - [Channel by IAF - International Aikido Federation](https://www.youtube.com/@Aikido-internationalOrg) - 
   - [Aikido Demonstrations - 12th IAF Congress (Live Stream)](https://www.youtube.com/watch?v=-00nzDY9_58)
 - [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
-- [Aikido National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4) - 
+- [Aikido Documentary by National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4) - 
 - [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada
 - [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2)
 - The Art of Aikido by Rev. Kensho Furuya
@@ -100,10 +111,21 @@ TODO
   - [The Art of Aikido volume 8 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=8IfxCMmTiPs)
 - [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
 - [Steve Magson - 2018 Series with 43 videos](https://www.youtube.com/playlist?list=PLwHVRihJdIsLYOoLf0FTmVLrq4QRPa2jF)
-
+- Saotome Mitsugi:
+  - [The Principles of Aikido](https://www.youtube.com/watch?v=x_ozInaKpLI)
+  - [Sword of Aikido](https://www.youtube.com/watch?v=5fu-7zRBUp0)
+  - [Two Swords of Aikido](https://www.youtube.com/watch?v=e_zLACjj5fw)
+  - [Staff of Aikido](https://www.youtube.com/watch?v=4F_02li14k8)
+  - [Oyo Henka Waza](https://www.youtube.com/watch?v=apjIDRWAr5I)
+- Morihiro Saito:
+  - [Playlist Morihiro Saito: Lost Seminars, Series with 6 videos](https://www.youtube.com/playlist?list=PLFt5GPXqdOYdMAPxvr9fomz20pYnEPvn8)
+  - [TAKEMUSU AIKI](https://www.youtube.com/watch?v=T0n3W4wCTec)
+  
+    
 ### Christian Tissier
 
-- [Christian Tissier - Vol 1. Immobilizations AIKIDO – Principles and Applications](https://www.youtube.com/watch?v=6HhRSO826Ww)
+- [Christian Tissier - Vol 1. Immobilizations](https://www.youtube.com/watch?v=6HhRSO826Ww)
+- [Christian Tissier - Vol 2. Projections](https://www.youtube.com/watch?v=LzJScCqOMb8)
  
 ### Festival des Arts Martiaux & World Combat Games
 
@@ -120,13 +142,63 @@ TODO
  
 ### Articles
 
-- [Article Title](https://example.com) - A short explanation of the article's relevance.
-
----
-
-## Community
-
-- [Forum/Group Name](https://example.com) - A brief description of the community.
+- [Pat Hendricks' Incredible Aikido Odyssey by Stanley Pranin](https://aikidojournal.com/2015/12/16/pat-hendricks-incredible-aikido-odyssey-by-stanley-pranin-3/)
+- [Remembering Saito-Sensei by Stanley Pranin](https://aikidojournal.com/2015/05/13/remembering-morihiro-saito-sensei/)
+- [A Day in the Life of the Founder Morihei Ueshiba, April 1968](https://web.archive.org/web/20060308151830/http://www.aikidojournal.com/article.php?articleID=114)
+- Archive Aikido Journal:
+  - [»A Day in the Life of the Founder Morihei Ueshiba, April 1968«](https://web.archive.org/web/20060308152346/http://www.aikidojournal.com/article.php?articleID=114)
+  - [»A Revisionist View of Aikido History«](https://web.archive.org/web/20051128025045/http://www.aikidojournal.com/article.php?articleID=24)
+  - [»Aikido Today: An Overview«](https://web.archive.org/web/20051127132206/http://www.aikidojournal.com/article.php?articleID=29)
+  - [»Aikido and Independence: On Not Finding One's True Master«](https://web.archive.org/web/20051129074025/http://www.aikidojournal.com/article.php?articleID=480)
+  - [»Aikido and Weapons: The Last Word?«](https://web.archive.org/web/20110713081548/http://www.aikidojournal.com/article?articleID=31)
+  - [»Aikido and the Dissolution of Touching Taboos«](https://web.archive.org/web/20060301191314/http://www.aikidojournal.com/article.php?articleID=543)
+  - [»Aikido and the Traditional Japanese Martial Arts«](https://web.archive.org/web/20051128041617/http://www.aikidojournal.com/article.php?articleID=594)
+  - [»Aikido in the Postwar Years - Part 1: 1946-1956«](https://web.archive.org/web/20051127133913/http://www.aikidojournal.com/article.php?articleID=521)
+  - [»Aikido: Merely a Pastime?«](https://web.archive.org/web/20051128041139/http://www.aikidojournal.com/article.php?articleID=503)
+  - [»An End to the Collusion«](http://aikidojournal.com/article.php?articleID=567)
+  - [»André Nocquet Returns To Japan«](https://web.archive.org/web/20051128072951/http://www.aikidojournal.com/article.php?articleID=405)
+  - [»Becoming an Uchideshi, or How to Train Seriously in Japan«](https://web.archive.org/web/20050419150946/http://www.aikidojournal.com/article.php?articleID=1)
+  - [»Can Competition Enhance O-Sensei»s Aikido?«](https://web.archive.org/web/20051128072951/http://www.aikidojournal.com/article.php?articleID=22)
+  - [»Challenging the Status Quo«](https://web.archive.org/web/20060228194657/http://www.aikidojournal.com/article.php?articleID=12)
+  - [»Character counts!«](https://web.archive.org/web/20051128072951/http://www.aikidojournal.com/article.php?articleID=28)
+  - [»Cultivating a Martial Spirit«](https://web.archive.org/web/20051128072951/http://www.aikidojournal.com/article.php?articleID=362)
+  - [»Dan Rankings« ](https://web.archive.org/web/20060228194805/http://www.aikidojournal.com/article.php?articleID=458)
+  - [»Editorial: Researching O-Senseis Life« ](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=568)
+  - [»Editorial: «An Open Letter to Norris, Seagal, and Van Damme\" ](https://web.archive.org/web/20051128041254/http://www.aikidojournal.com/article.php?articleID=538)
+  - [»Education and Training«](https://web.archive.org/web/20051128072951/http://www.aikidojournal.com/article.php?articleID=511)
+  - [»Ends and Means: Why are we training?«](https://web.archive.org/web/20070326223235/http://www.aikidojournal.com/article.php?articleID=33)
+  - [»Everything in Black and White«](https://web.archive.org/web/20051128072951/http://www.aikidojournal.com/article.php?articleID=49)
+  - [»Examinations and Their Purpose«](https://web.archive.org/web/20061219112346/http://www.aikidojournal.com/article.php?articleID=470)
+  - [»Fewer Words - More Understanding«](https://web.archive.org/web/20051128072951/http://www.aikidojournal.com/article.php?articleID=38)
+  - [»Foreigners Want Most to Know About O-Sensei«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=190)
+  - [»Gaijin Complex«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=607)
+  - [»Hitohiro Saito«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=95)
+  - [»How to invite a Japanese Sensei to your Country«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=561)
+  - [»Humor: A Veil for Verbal Violence«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=541)
+  - [»Is O-Sensei really the father of modern Aikido?«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=34)
+  - [»Iwama Ryu News 1998 Stanley Pranin«](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=76)
+  - [»Japanese for Aikidoka«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=213)
+  - [»Just like flowers«](https://web.archive.org/web/20060808031346/http://www.aikidojournal.com/article.php?articleID=544)
+  - [»Katsuaki Asai«](https://web.archive.org/web/20051208223950/http://www.aikidojournal.com/article.php?articleID=309)
+  - [»Kenji Shimizu«](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=140)
+  - [»Kisshomaru Ueshiba«](https://web.archive.org/web/20070823151419/http://www.aikidojournal.com/article.php?articleID=80)
+  - [»Modern Learning: A Decline in Stealing?«](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=556)
+  - [»Morihei and Kisshomaru Ueshiba«](https://web.archive.org/web/20051128073048/http://www.aikidojournal.com/article.php?articleID=98)
+  - [»Moriteru Ueshiba«](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=99)
+  - [»Muscles and Aikido«](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=148)
+  - [»O-Sensei»s Weapons Legacy«](https://web.archive.org/web/20060211214246/http://www.aikidojournal.com/article.php?articleID=442)
+  - [»Pen and Sword in Accord«](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=215)
+  - [»Proposed Legislation Concerning Nonaggressive Self-Defense«](https://web.archive.org/web/20050527001143/http://www.aikidojournal.com/article.php?articleID=131)
+  - [»Teaching and Shu-Ha-Ri«](https://web.archive.org/web/20050422103918/http://www.aikidojournal.com/article.php?articleID=222)
+  - [»Television: Window to Violence«](https://web.archive.org/web/20110713074738/http://www.aikidojournal.com/article?articleID=427)
+  - [»The Expansion of Aikido Abroad« ](https://web.archive.org/web/20051129095239/http://www.aikidojournal.com/article.php?articleID=559)
+  - [»The Internationality of Aikido«](https://web.archive.org/web/20051128040407/http://www.aikidojournal.com/article.php?articleID=212)
+  - [»The Japan Pilgrimage: Better be prepared«](https://web.archive.org/web/20100507034358/http://www.aikidojournal.com/article.php?articleID=42)
+  - [»The Progression of Aikido Technique from Basic to Advanced«](https://web.archive.org/web/20050426200519/http://www.aikidojournal.com/article.php?articleID=614)
+  - [»The Proper Attitude of a Martial Art Teacher«](https://web.archive.org/web/20100507034432/http://www.aikidojournal.com/article.php?articleID=552)
+  - [»Training in Japan«](https://web.archive.org/web/20101202181352/http://www.aikidojournal.com/article.php?articleID=64)
+  - [»Training, Training, and Training«](https://web.archive.org/web/20070822230456/http://www.aikidojournal.com/article.php?articleID=655)
+  - [»Will someone do something« ](https://web.archive.org/web/20080416142307/http://www.aikidojournal.com/article.php?articleID=392)
 
 ---
 
