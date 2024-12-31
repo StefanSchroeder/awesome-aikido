@@ -56,8 +56,23 @@ TODO
 - [Aikido](https://www.goodreads.com/book/show/1789881.Aikido?from_search=true&from_srp=true&qid=yWjerSJmLc&rank=7) by Koichi Tohei 
 - [It's a lot like dancing](https://www.goodreads.com/book/show/649145.It_s_a_Lot_Like_Dancing?ac=1&from_search=true&qid=PFjcGQP4uD&rank=1) by Terry Dobson
 - [Aikido Exercises for Teaching and Training](https://www.goodreads.com/book/show/81968.Aikido_Exercises_for_Teaching_and_Training?ac=1&from_search=true&qid=k5SbnpCGtv&rank=1)
-- 
-- Ueshiba
+- [Budo: Teachings of the Founder of Aikido by John Stevens](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5)
+- [Remembering O-Sensei by Susan Perry](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6)
+- Morihiro Saito:
+  - [Traditional Aikido Vol 1](https://www.goodreads.com/book/show/442015.Traditional_Aikido_Vol_1_Basic_Techniques?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=5)
+  - 2 - Advanced Techniques
+  - 3 - Applied Techniques
+  - 4 - Vital Techniques
+  - 5 - Training works wonders
+  - [Takemusu Aikido Vol 1](https://www.goodreads.com/book/show/5938026-takemusu-aikido-volume-i?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=4)
+  - 2 - More Basics
+  - 3 - Basics Concluded
+  - 4 - Kokyu Nage
+  - 5 - Bukidori & Ninindori
+  - 6 - Budo
+- Ueshiba:
+  - [The Spirit of Aikido by Kisshomaru Ueshiba](https://www.goodreads.com/book/show/81972.The_Spirit_of_Aikido?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=4) 
+  - [Aikido Master Course: Best Aikido 2](https://www.goodreads.com/book/show/81967.The_Aikido_Master_Course?from_search=true&from_srp=true&qid=XSayUObrCq&rank=2)
 
 ---
 
@@ -71,7 +86,8 @@ TODO
 - [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
 - [Aikido National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4)
 - [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada
-- [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2) 
+- [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2)
+- The Art of Aikido by Rev. Kensho Furuya
   - [The Art of Aikido volume 1 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=OLeTEt_RXnc) 
   - [The Art of Aikido volume 2 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=GNb8Z2GParo)
   - [The Art of Aikido volume 3 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=YGEZK8dRkrg)
@@ -79,6 +95,7 @@ TODO
   - [The Art of Aikido volume 5 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=UAVP7hdluYc)
   - [The Art of Aikido volume 6 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=Ll2MLdD3UiA)
   - [The Art of Aikido volume 7 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=cB3kMQZmrpo)
+  - [The Art of Aikido volume 8 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=8IfxCMmTiPs)
  
  ### Festival des Arts Martiaux & World Combat Games
 
