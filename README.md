@@ -1,6 +1,7 @@
 # Awesome Aikido [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome Aikido-resources, tools, and more.  
+A curated list of awesome Aikido-resources.
+
 Inspired by [awesome](https://github.com/sindresorhus/awesome) lists.
 
 ---
@@ -42,8 +43,8 @@ TODO
 
 ### Non-Free Courses
 
-- [Patricia Hendricks Blackbelt]() - A brief description of what this tutorial covers. (Free teaser: https://patricia-hendricks-s-school.teachable.com/courses/)
-- [Miles Kessler's Bokken](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
+- [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - (Free teaser: https://patricia-hendricks-s-school.teachable.com/courses/)
+- [Miles Kessler's Bokken Course](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
 
 ---
 
@@ -81,10 +82,11 @@ TODO
 - [Channel by Stefan Stenudd](https://www.youtube.com/c/stefanstenudd) - Stefan Stenudd's Channel on Youtube.
 - [Channel by Shirakawa Ryuji](https://www.youtube.com/@Shinburenseijyuku) - Shirakawa Ryuji's Channel on Youtube.
 - [Channel by Guilleaume Erard](https://www.youtube.com/@guillaumeerard) - G. Erard's Channel on Youtube.
+  - [Interview with Andre Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
 - [Channel by IAF - International Aikido Federation](https://www.youtube.com/@Aikido-internationalOrg) - 
   - [Aikido Demonstrations - 12th IAF Congress (Live Stream)](https://www.youtube.com/watch?v=-00nzDY9_58)
 - [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
-- [Aikido National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4)
+- [Aikido National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4) - 
 - [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada
 - [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2)
 - The Art of Aikido by Rev. Kensho Furuya
@@ -96,9 +98,21 @@ TODO
   - [The Art of Aikido volume 6 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=Ll2MLdD3UiA)
   - [The Art of Aikido volume 7 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=cB3kMQZmrpo)
   - [The Art of Aikido volume 8 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=8IfxCMmTiPs)
- 
- ### Festival des Arts Martiaux & World Combat Games
+- [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
+- [Steve Magson - 2018 Series with 43 videos](https://www.youtube.com/playlist?list=PLwHVRihJdIsLYOoLf0FTmVLrq4QRPa2jF)
 
+### Christian Tissier
+
+- [Christian Tissier - Vol 1. Immobilizations AIKIDO – Principles and Applications](https://www.youtube.com/watch?v=6HhRSO826Ww)
+ 
+### Festival des Arts Martiaux & World Combat Games
+
+ - [Christian Tissier Bercy 1994](https://www.youtube.com/watch?v=4xWdUOK9J-8)
+ - [Tissier Bercy 2001](https://www.youtube.com/watch?v=GX91U2t4zmI)
+ - [Christian Tissier Aikido Bercy 2004](https://www.youtube.com/watch?v=6yW-bCmsMw0)
+ - [Tissier Bercy 2005](https://www.youtube.com/watch?v=9MIVo68o6Sg)
+ - [Christian Tissier - Bercy 2008](https://www.youtube.com/watch?v=0mJSHEyyKZg)
+ - [Aïkido Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
  - [L'Aïkido au 31e Festival des Arts Martiaux](https://youtu.be/QMXZggEOuV4?si=LE6G4ePDyh6g851o)
  - [Russian Aikido - 34th Martial Arts Festival in Paris](https://youtu.be/OJ4jOfVAJuA?si=yBF60KbYW1mu6l1v)
 
@@ -123,7 +137,8 @@ TODO
 - [Aikido Street Story 3](https://www.youtube.com/watch?v=YG3zw5FRJ-Y)
 - [Master Ken's opinion of Aikido](https://www.youtube.com/watch?v=CdQc79oBNgI)
 - [Aikido Promo](https://www.youtube.com/watch?v=6K8jSe8bGkg)
- 
+- [Fudebakudo](https://www.fudebakudo.com/index)
+
 ---
 
 ## Contribute
