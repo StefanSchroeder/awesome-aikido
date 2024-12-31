@@ -10,11 +10,8 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) lists.
 
 - [Introduction](#introduction)
 - [Resources](#resources)
-  - [Tutorials](#tutorials)
-  - [Books](#books)
+  - [Books](#books)   
   - [Articles](#articles)
-- [Tools](#tools)
-- [Community](#community)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -127,17 +124,33 @@ TODO
 - [Christian Tissier - Vol 1. Immobilizations](https://www.youtube.com/watch?v=6HhRSO826Ww)
 - [Christian Tissier - Vol 2. Projections](https://www.youtube.com/watch?v=LzJScCqOMb8)
  
-### Festival des Arts Martiaux & World Combat Games
+### Festival des Arts Martiaux Paris Bercy
 
- - [Christian Tissier Bercy 1994](https://www.youtube.com/watch?v=4xWdUOK9J-8)
+ - [Nocquet/Tissier Bercy 1989](https://www.youtube.com/watch?v=DRPDt_zMLis)
+ - [Nocquet/Tissier Bercy 1990](https://www.youtube.com/watch?v=jJQGO7FqyVg)
+ - [Tissier Bercy 1991](https://www.youtube.com/watch?v=Kyxht6Hwq_E)
+ - [Tissier Bercy 1994](https://www.youtube.com/watch?v=4xWdUOK9J-8)
+ - [Tissier Bercy 1995](https://www.youtube.com/watch?v=_pGxZWcQoyE)
+ - [Tissier Bercy 1997](https://www.youtube.com/watch?v=uBsL-71fb8Y) 
  - [Tissier Bercy 2001](https://www.youtube.com/watch?v=GX91U2t4zmI)
- - [Christian Tissier Aikido Bercy 2004](https://www.youtube.com/watch?v=6yW-bCmsMw0)
+ - [Tissier Bercy 2003](https://www.youtube.com/watch?v=-aOPtRwIcXg)
+ - [Tissier Bercy 2004](https://www.youtube.com/watch?v=6yW-bCmsMw0)
  - [Tissier Bercy 2005](https://www.youtube.com/watch?v=9MIVo68o6Sg)
- - [Christian Tissier - Bercy 2008](https://www.youtube.com/watch?v=0mJSHEyyKZg)
- - [Aïkido Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
+ - [Tissier Bercy 2008](https://www.youtube.com/watch?v=0mJSHEyyKZg)
+ - [Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
  - [L'Aïkido au 31e Festival des Arts Martiaux](https://youtu.be/QMXZggEOuV4?si=LE6G4ePDyh6g851o)
- - [Russian Aikido - 34th Martial Arts Festival in Paris](https://youtu.be/OJ4jOfVAJuA?si=yBF60KbYW1mu6l1v)
+ - [Russia Aikido - 34th Martial Arts Festival in Paris](https://youtu.be/OJ4jOfVAJuA?si=yBF60KbYW1mu6l1v)
+ - [35th - Gonzalez Bercy 2022](https://www.youtube.com/watch?v=S4r6Sz9-iGo)
+ - [36th - Gonzalez Bercy 2023](https://www.youtube.com/watch?v=aZfSDQL8dEw)
+ - [37th - Gonzalez Bercy 2024](https://www.youtube.com/watch?v=FyHLUdGYCgU)
 
+###  World Combat Games
+
+ - [WCG 2013 Playlist](https://www.youtube.com/watch?v=tJmNRvaQoZw&list=PLhxpPMzKJXtmvL8rU5qoGCE4CRLEEiN1F)
+ - [Tissier WCG 2013](https://www.youtube.com/watch?v=8yjp8YgHqB0)
+ - [Aikido 2023 WCG](https://www.youtube.com/watch?v=gW_HU3msTSA)
+ - [Ueshiba WCG 2023](https://www.youtube.com/watch?v=8DkL9UfAiUU)
+ 
 ---
  
 ### Articles
