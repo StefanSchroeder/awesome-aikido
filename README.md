@@ -24,9 +24,9 @@ TODO
 
 ## General Resources
 
-- [Aikido-FAQ](http://www.aikidofaq.com/) - A major website with loads of content by Kjartan Clausen.
-- [Aikiweb](http://www.aikiweb.com/) - A major website 
-- [Seido](https://www.youtube.com/user/BudoExport) - more than 1000 videos
+- [Aikido-FAQ](http://www.aikidofaq.com/) - A major website, stale but with loads of content by Kjartan Clausen.
+- [Aikiweb](http://www.aikiweb.com/) - A major website including a forum.
+- [Seido](https://www.youtube.com/user/BudoExport) - More than 1000 videos.
 
 ---
 
@@ -50,6 +50,7 @@ TODO
 
 - [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - (Free teaser: https://patricia-hendricks-s-school.teachable.com/courses/)
 - [Miles Kessler's Bokken Course](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
+- [Bruce Bookman's Aikido Extensions](https://academy.aikidojournal.com/Aikido-Extensions) - extending classical aikido to modern attacks. 
 
 ---
 
@@ -66,17 +67,17 @@ TODO
 - [Budo: Teachings of the Founder of Aikido by John Stevens](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5)
 - [Remembering O-Sensei by Susan Perry](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6)
 - Morihiro Saito:
-  - [Traditional Aikido Vol 1](https://www.goodreads.com/book/show/442015.Traditional_Aikido_Vol_1_Basic_Techniques?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=5)
-  - 2 - Advanced Techniques
-  - 3 - Applied Techniques
-  - 4 - Vital Techniques
-  - 5 - Training works wonders
-  - [Takemusu Aikido Vol 1](https://www.goodreads.com/book/show/5938026-takemusu-aikido-volume-i?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=4)
-  - 2 - More Basics
-  - 3 - Basics Concluded
-  - 4 - Kokyu Nage
-  - 5 - Bukidori & Ninindori
-  - 6 - Budo
+  - [Traditional Aikido Vol 1](https://www.goodreads.com/book/show/442015.Traditional_Aikido_Vol_1_Basic_Techniques?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=5) - out-of-print
+  - [Traditional Aikido Vol 2 - Advanced Techniques](https://www.goodreads.com/book/show/25775666-traditional-aikido-vol-2---advanced-techniques) - out-of-print
+  - [Traditional Aikido Vol 3 - Applied Techniques](https://www.goodreads.com/book/show/7739267-traditional-aikido-vol-3---applied-techniques) - out-of-print
+  - [Traditional Aikido Vol 4 - Vital Techniques](https://www.goodreads.com/book/show/10208503-traditional-aikido-vol-4---vital-techniques) - out-of-print
+  - [Traditional Aikido Vol 5 - Training works wonders](https://www.goodreads.com/book/show/2290412.Traditional_Aikido_Vol_5_Training_Works_Wonders) - out-of-print
+  - [Takemusu Aikido Vol 1 - Background and Basics](https://www.goodreads.com/book/show/5938026-takemusu-aikido-volume-i?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=4)
+  - [Takemusu Aikido Vol 2 - More Basics](https://www.goodreads.com/book/show/24797070-takemusu-aikido-volume-2-more-basics)
+  - [Takemusu Aikido Vol 3 - Basics Concluded](https://www.goodreads.com/book/show/24797069-takemusu-aikido-volume-3-basics-concluded)
+  - [Takemusu Aikido Vol 4 - Kokyu Nage](https://www.goodreads.com/book/show/10053556-takemusu-aikido----volume-4----kokyunage)
+  - [Takemusu Aikido Vol 5 - Bukidori & Ninindori](https://www.goodreads.com/book/show/28447515-takemusu-aikido)
+  - [Takemusu Aikido Vol 6 - Budo](https://www.goodreads.com/book/show/2713871-takemusu-aikido-special-edition)
 - Ueshiba:
   - [The Spirit of Aikido by Kisshomaru Ueshiba](https://www.goodreads.com/book/show/81972.The_Spirit_of_Aikido?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=4) 
   - [Aikido Master Course: Best Aikido 2](https://www.goodreads.com/book/show/81967.The_Aikido_Master_Course?from_search=true&from_srp=true&qid=XSayUObrCq&rank=2)
