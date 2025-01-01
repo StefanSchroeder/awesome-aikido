@@ -117,7 +117,7 @@ TODO
 - Morihiro Saito:
   - [Playlist Morihiro Saito: Lost Seminars, Series with 6 videos](https://www.youtube.com/playlist?list=PLFt5GPXqdOYdMAPxvr9fomz20pYnEPvn8)
   - [TAKEMUSU AIKI](https://www.youtube.com/watch?v=T0n3W4wCTec)
-  
+- [Bruno Gonzalez - Jo-Dori Series w 26 videos](https://www.youtube.com/watch?v=5_dfKNhHnxo&list=PLCN0FLYSyAKAg16ZUC8pi3UtA4UHNLICX)  
     
 ### Christian Tissier
 
@@ -129,6 +129,7 @@ TODO
  - [Nocquet/Tissier Bercy 1989](https://www.youtube.com/watch?v=DRPDt_zMLis)
  - [Nocquet/Tissier Bercy 1990](https://www.youtube.com/watch?v=jJQGO7FqyVg)
  - [Tissier Bercy 1991](https://www.youtube.com/watch?v=Kyxht6Hwq_E)
+ - [Tissier Bercy 1992](https://www.youtube.com/watch?v=GA7Vj_zNWhg)
  - [Tissier Bercy 1994](https://www.youtube.com/watch?v=4xWdUOK9J-8)
  - [Tissier Bercy 1995](https://www.youtube.com/watch?v=_pGxZWcQoyE)
  - [Tissier Bercy 1997](https://www.youtube.com/watch?v=uBsL-71fb8Y) 
@@ -137,19 +138,23 @@ TODO
  - [Tissier Bercy 2004](https://www.youtube.com/watch?v=6yW-bCmsMw0)
  - [Tissier Bercy 2005](https://www.youtube.com/watch?v=9MIVo68o6Sg)
  - [Tissier Bercy 2008](https://www.youtube.com/watch?v=0mJSHEyyKZg)
- - [Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
- - [L'Aïkido au 31e Festival des Arts Martiaux](https://youtu.be/QMXZggEOuV4?si=LE6G4ePDyh6g851o)
+ - [29th - Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
+ - [Tamaki Bercy 2014](https://www.youtube.com/watch?v=yDCya8xCpSs)
+ - [Tamaki Bercy 2018](https://www.youtube.com/watch?v=Y4qnm_G4V-E)
+ - [Flocquet Bercy - L'Aïkido au 31e Festival des Arts Martiaux](https://youtu.be/QMXZggEOuV4?si=LE6G4ePDyh6g851o)
  - [Russia Aikido - 34th Martial Arts Festival in Paris](https://youtu.be/OJ4jOfVAJuA?si=yBF60KbYW1mu6l1v)
+ - [34th - Blaize Bercy 2019](https://www.youtube.com/watch?v=BVDR04VbSbY)
  - [35th - Gonzalez Bercy 2022](https://www.youtube.com/watch?v=S4r6Sz9-iGo)
  - [36th - Gonzalez Bercy 2023](https://www.youtube.com/watch?v=aZfSDQL8dEw)
  - [37th - Gonzalez Bercy 2024](https://www.youtube.com/watch?v=FyHLUdGYCgU)
 
-###  World Combat Games
+###  World (Combat) Games
 
+ - [Ueshiba - World Games 2005](https://www.youtube.com/watch?v=94sOPZ4WtyY)
  - [WCG 2013 Playlist](https://www.youtube.com/watch?v=tJmNRvaQoZw&list=PLhxpPMzKJXtmvL8rU5qoGCE4CRLEEiN1F)
- - [Tissier WCG 2013](https://www.youtube.com/watch?v=8yjp8YgHqB0)
+ - [Tissier - WCG 2013](https://www.youtube.com/watch?v=8yjp8YgHqB0)
  - [Aikido 2023 WCG](https://www.youtube.com/watch?v=gW_HU3msTSA)
- - [Ueshiba WCG 2023](https://www.youtube.com/watch?v=8DkL9UfAiUU)
+ - [Ueshiba - WCG 2023](https://www.youtube.com/watch?v=8DkL9UfAiUU)
  
 ---
  
