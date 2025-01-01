@@ -43,7 +43,7 @@ TODO
   - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U)
   - [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ)
   - [Noriaki Inoue: Aikido's forgotten pioneer](https://www.youtube.com/watch?v=Ui5DIHA1mgo)
-
+- [Remembering Stanley Pranin](https://aikidojournal.com/2017/04/28/remembering-stan-pranin/)
 ---
 
 ### Non-Free Courses
@@ -51,6 +51,8 @@ TODO
 - [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - (Free teaser: https://patricia-hendricks-s-school.teachable.com/courses/)
 - [Miles Kessler's Bokken Course](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
 - [Bruce Bookman's Aikido Extensions](https://academy.aikidojournal.com/Aikido-Extensions) - extending classical aikido to modern attacks, [Teaser on YT Shiho-nage to Sankyo](https://www.youtube.com/watch?v=lfusO4hEJg0)
+- [Stanley Pranin's Zone Theory of Aikido](no link) - with [free trailer on YT](https://www.youtube.com/watch?v=Zp5GZatcyyY)
+- [Stanley Pranin's Zone Theory of Aikido 2.0](no link) - with [free trailer on YT](https://www.youtube.com/watch?v=lEBqnP-FQyc)
 
 ---
 
