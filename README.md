@@ -132,6 +132,8 @@ TODO
 
 ### Historical footage
 
+There is probably some duplication in this chapter and the videos published by Stanley Pranin.
+
 - [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
 - [Morihei Ueshiba 1935 Rare footage](https://www.youtube.com/watch?v=mdnN5SQy6Rs)
 - [Aikido performance by Morihei Ueshiba in 1960 合気道](https://www.youtube.com/watch?v=z7mxPWyb9q0)
