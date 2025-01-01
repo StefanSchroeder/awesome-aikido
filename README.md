@@ -26,7 +26,7 @@ TODO
 
 - [Aikido-FAQ](http://www.aikidofaq.com/) - A major website, stale but with loads of content by Kjartan Clausen.
 - [Aikiweb](http://www.aikiweb.com/) - A major website including a forum.
-- [Seido](https://www.youtube.com/user/BudoExport) - More than 1000 videos.
+- [Seido](https://www.youtube.com/user/BudoExport) - More than 1000 videos by the Budo gear company.
 
 ---
 
@@ -36,13 +36,13 @@ TODO
 - [Aikido Journal Youtube Channel](https://www.youtube.com/@AikidoJournalOnline/videos) - Founded by Stanley Pranin
   - [Stanley Pranin introduces "Aikido History 101"](https://www.youtube.com/watch?v=FXXdl5gjSKk)
   - [Morihei Ueshiba and Sokaku Takeda](https://www.youtube.com/watch?v=b9R0PNwcrUw)
+  - [Morihei Ueshiba O-Sensei toys with a young Morihiro Saito in Iwama!](https://www.youtube.com/watch?v=nXMJx1ZoK-M)
   - [An introduction to Koichi Tohei](https://www.youtube.com/watch?v=oDLTeruzbsg)
   - [Takemusu-Aiki](https://www.youtube.com/watch?v=YtkG2yKqCbQ)
   - [Divine Techniques](https://www.youtube.com/watch?v=eiXlsEVehtQ)
   - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U)
   - [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ)
-  - [Rare footage 1935](https://www.youtube.com/watch?v=mdnN5SQy6Rs)
-  - [1952 Aikido Rare Footage O-Sensei & Uchi-deshi](https://www.youtube.com/watch?v=aBIYSgRsn14&list=RDQMrzLZgeZCXIc&index=25)
+  - [Noriaki Inoue: Aikido's forgotten pioneer](https://www.youtube.com/watch?v=Ui5DIHA1mgo)
 
 ---
 
@@ -50,7 +50,7 @@ TODO
 
 - [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - (Free teaser: https://patricia-hendricks-s-school.teachable.com/courses/)
 - [Miles Kessler's Bokken Course](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
-- [Bruce Bookman's Aikido Extensions](https://academy.aikidojournal.com/Aikido-Extensions) - extending classical aikido to modern attacks. 
+- [Bruce Bookman's Aikido Extensions](https://academy.aikidojournal.com/Aikido-Extensions) - extending classical aikido to modern attacks, [Teaser on YT Shiho-nage to Sankyo](https://www.youtube.com/watch?v=lfusO4hEJg0)
 
 ---
 
@@ -90,14 +90,10 @@ TODO
 - [Channel by Stefan Stenudd](https://www.youtube.com/c/stefanstenudd) - Stefan Stenudd's Channel on Youtube.
 - [Channel by Shirakawa Ryuji](https://www.youtube.com/@Shinburenseijyuku) - Shirakawa Ryuji's Channel on Youtube.
 - [Channel by Guilleaume Erard](https://www.youtube.com/@guillaumeerard) - G. Erard's Channel on Youtube.
-  - [Interview with André Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
-  - [Morihei Ueshiba O Sensei - Rare Aikido Demonstration (1957) 合気道植芝 盛平](https://www.youtube.com/watch?v=30Sa0PLquFg)
-  - [1954 Aikido O Sensei](https://www.youtube.com/watch?v=tZcDc1ZYEgw)
 - [Channel by IAF - International Aikido Federation](https://www.youtube.com/@Aikido-internationalOrg) - 
   - [Aikido Demonstrations - 12th IAF Congress (Live Stream)](https://www.youtube.com/watch?v=-00nzDY9_58)
-- [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
 - [Aikido Documentary by National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4) - presented by Josette Normandeau.
-- [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada.
+- [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada, [Vol 3](https://www.youtube.com/watch?v=QqNGIx9VQkQ)
 - [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2) by the NYC Aikikai.
 - The Art of Aikido by Rev. Kensho Furuya:
   - [The Art of Aikido volume 1 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=OLeTEt_RXnc) 
@@ -108,7 +104,6 @@ TODO
   - [The Art of Aikido volume 6 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=Ll2MLdD3UiA)
   - [The Art of Aikido volume 7 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=cB3kMQZmrpo)
   - [The Art of Aikido volume 8 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=8IfxCMmTiPs)
-- [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
 - [Steve Magson - 2018 Series with 43 videos](https://www.youtube.com/playlist?list=PLwHVRihJdIsLYOoLf0FTmVLrq4QRPa2jF)
 - Saotome Mitsugi:
   - [The Principles of Aikido](https://www.youtube.com/watch?v=x_ozInaKpLI)
@@ -120,8 +115,32 @@ TODO
   - [Playlist Morihiro Saito: Lost Seminars, Series with 6 videos](https://www.youtube.com/playlist?list=PLFt5GPXqdOYdMAPxvr9fomz20pYnEPvn8)
   - [TAKEMUSU AIKI](https://www.youtube.com/watch?v=T0n3W4wCTec)
 - [Bruno Gonzalez - Jo-Dori Series w 26 videos](https://www.youtube.com/watch?v=5_dfKNhHnxo&list=PLCN0FLYSyAKAg16ZUC8pi3UtA4UHNLICX)
-- [Hikitsuchi Michio - The Heart of Aikido](https://www.youtube.com/watch?v=eZ7ZNkIRRMU) 1h Documentary
-    
+- Hikitsuchi Michio:
+  - [The Heart of Aikido](https://www.youtube.com/watch?v=eZ7ZNkIRRMU) 1h Documentary
+  - [Essentials of Aikido Vol 1](https://www.youtube.com/watch?v=QqNGIx9VQkQ)
+  - [Essentials of Aikido Vol 2](https://www.youtube.com/watch?v=4Q-wtopf3UQ)
+- [Donovan Waite 7 - Ukemi I - Meeting the Mat](https://www.youtube.com/watch?v=Bv7sHrZ0yGs)
+- [Robert Frager - Floating Bridge of Heaven Pt 1](https://www.youtube.com/watch?v=wof9sSZ4lpg)
+- [Robert Frager - Floating Bridge of Heaven Pt 2](https://www.youtube.com/watch?v=WxvAw23B6Xo)
+- [Penny Bernath Zoom Aikido Class IAF Campaign](https://www.youtube.com/watch?v=vK63bNyuhQU)
+- [Moriteru Ueshiba - 7 Volume Video Series Kihon](https://www.youtube.com/watch?v=ppz74vR1fbY&list=PLFL16jAsuVuYhl_Tji4DGQ7KVg8aEbJcP)
+- [Ueshiba Family Kihon](https://www.youtube.com/watch?v=KRQIpDFB5eE)
+- [Tamura Nobuyoshi, techniques du grand maître de l'aïkido](https://www.youtube.com/watch?v=KRQIpDFB5eE)
+- [Sugano Playlist](https://www.youtube.com/playlist?list=PLe8dMeupuxj8s0WqBbbAgrCHmimetRP4j)
+
+### Historical footage
+
+- [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
+- [Morihei Ueshiba 1935 Rare footage](https://www.youtube.com/watch?v=mdnN5SQy6Rs)
+- [Aikido performance by Morihei Ueshiba in 1960 合気道](https://www.youtube.com/watch?v=z7mxPWyb9q0)
+- [植芝 盛平](https://www.youtube.com/watch?v=hFM9OViKtAM)
+- [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
+- [Interview with André Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
+- [Morihei Ueshiba O Sensei - Rare Aikido Demonstration (1957) 合気道植芝 盛平](https://www.youtube.com/watch?v=30Sa0PLquFg)
+- [1954 Aikido O Sensei](https://www.youtube.com/watch?v=tZcDc1ZYEgw)
+- [1952 Aikido Rare Footage O-Sensei & Uchi-deshi](https://www.youtube.com/watch?v=aBIYSgRsn14&list=RDQMrzLZgeZCXIc&index=25)
+- [Morihei Ueshiba - the last video]([url](https://www.youtube.com/watch?v=2W6AMM-269U))
+
 ### Christian Tissier
 
 - [Christian Tissier - Vol 1. Immobilizations](https://www.youtube.com/watch?v=6HhRSO826Ww)
@@ -143,6 +162,7 @@ TODO
  - [Tissier Bercy 2008](https://www.youtube.com/watch?v=0mJSHEyyKZg)
  - [29th - Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
  - [Tamaki Bercy 2014](https://www.youtube.com/watch?v=yDCya8xCpSs)
+ - [Tissier Bercy 2015](https://www.youtube.com/watch?v=8B8E2T6XRs8)
  - [Tamaki Bercy 2018](https://www.youtube.com/watch?v=Y4qnm_G4V-E)
  - [Flocquet Bercy - L'Aïkido au 31e Festival des Arts Martiaux](https://youtu.be/QMXZggEOuV4?si=LE6G4ePDyh6g851o)
  - [Russia Aikido - 34th Martial Arts Festival in Paris](https://youtu.be/OJ4jOfVAJuA?si=yBF60KbYW1mu6l1v)
