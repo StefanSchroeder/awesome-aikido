@@ -63,9 +63,9 @@ TODO
 - [Aikido](https://www.goodreads.com/book/show/1789881.Aikido?from_search=true&from_srp=true&qid=yWjerSJmLc&rank=7) by Koichi Tohei
 - [This is Aikido](https://www.goodreads.com/book/show/1789875.This_Is_Aikido_With_Mind_and_Body_Coordinated) by Koichi Tohei
 - [It's a lot like dancing](https://www.goodreads.com/book/show/649145.It_s_a_Lot_Like_Dancing?ac=1&from_search=true&qid=PFjcGQP4uD&rank=1) by Terry Dobson
-- [Aikido Exercises for Teaching and Training](https://www.goodreads.com/book/show/81968.Aikido_Exercises_for_Teaching_and_Training?ac=1&from_search=true&qid=k5SbnpCGtv&rank=1)
-- [Budo: Teachings of the Founder of Aikido by John Stevens](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5)
-- [Remembering O-Sensei by Susan Perry](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6)
+- [Aikido Exercises for Teaching and Training](https://www.goodreads.com/book/show/81968.Aikido_Exercises_for_Teaching_and_Training?ac=1&from_search=true&qid=k5SbnpCGtv&rank=1), also [at Google Books]([url](https://books.google.de/books?id=ytZn8GhBEAIC&printsec=frontcover#v=onepage&q&f=false)) by Carol Shifflett
+- [Budo: Teachings of the Founder of Aikido](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5) by John Stevens
+- [Remembering O-Sensei](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6) by Susan Perry
 - Morihiro Saito:
   - [Traditional Aikido Vol 1](https://www.goodreads.com/book/show/442015.Traditional_Aikido_Vol_1_Basic_Techniques?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=5) - out-of-print
   - [Traditional Aikido Vol 2 - Advanced Techniques](https://www.goodreads.com/book/show/25775666-traditional-aikido-vol-2---advanced-techniques) - out-of-print
@@ -81,6 +81,7 @@ TODO
 - Ueshiba:
   - [The Spirit of Aikido by Kisshomaru Ueshiba](https://www.goodreads.com/book/show/81972.The_Spirit_of_Aikido?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=4) 
   - [Aikido Master Course: Best Aikido 2](https://www.goodreads.com/book/show/81967.The_Aikido_Master_Course?from_search=true&from_srp=true&qid=XSayUObrCq&rank=2)
+  - [Aikido - Hardcover 1963](https://www.amazon.com/Kisshomaru-Kazuaki-Tanashi-Translators-Uyeshiba/dp/B0007IXS5E)
 
 ---
 
@@ -95,10 +96,10 @@ TODO
 - [Channel by IAF - International Aikido Federation](https://www.youtube.com/@Aikido-internationalOrg) - 
   - [Aikido Demonstrations - 12th IAF Congress (Live Stream)](https://www.youtube.com/watch?v=-00nzDY9_58)
 - [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
-- [Aikido Documentary by National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4) - 
-- [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada
-- [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2)
-- The Art of Aikido by Rev. Kensho Furuya
+- [Aikido Documentary by National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4) - presented by Josette Normandeau.
+- [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada.
+- [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2) by the NYC Aikikai.
+- The Art of Aikido by Rev. Kensho Furuya:
   - [The Art of Aikido volume 1 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=OLeTEt_RXnc) 
   - [The Art of Aikido volume 2 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=GNb8Z2GParo)
   - [The Art of Aikido volume 3 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=YGEZK8dRkrg)
@@ -118,7 +119,8 @@ TODO
 - Morihiro Saito:
   - [Playlist Morihiro Saito: Lost Seminars, Series with 6 videos](https://www.youtube.com/playlist?list=PLFt5GPXqdOYdMAPxvr9fomz20pYnEPvn8)
   - [TAKEMUSU AIKI](https://www.youtube.com/watch?v=T0n3W4wCTec)
-- [Bruno Gonzalez - Jo-Dori Series w 26 videos](https://www.youtube.com/watch?v=5_dfKNhHnxo&list=PLCN0FLYSyAKAg16ZUC8pi3UtA4UHNLICX)  
+- [Bruno Gonzalez - Jo-Dori Series w 26 videos](https://www.youtube.com/watch?v=5_dfKNhHnxo&list=PLCN0FLYSyAKAg16ZUC8pi3UtA4UHNLICX)
+- [Hikitsuchi Michio - The Heart of Aikido](https://www.youtube.com/watch?v=eZ7ZNkIRRMU) 1h Documentary
     
 ### Christian Tissier
 
@@ -154,7 +156,7 @@ TODO
  - [Ueshiba - World Games 2005](https://www.youtube.com/watch?v=94sOPZ4WtyY)
  - [WCG 2013 Playlist](https://www.youtube.com/watch?v=tJmNRvaQoZw&list=PLhxpPMzKJXtmvL8rU5qoGCE4CRLEEiN1F)
  - [Tissier - WCG 2013](https://www.youtube.com/watch?v=8yjp8YgHqB0)
- - [Aikido 2023 WCG](https://www.youtube.com/watch?v=gW_HU3msTSA)
+ - [Tissier - WCG 2023](https://www.youtube.com/watch?v=gW_HU3msTSA)
  - [Ueshiba - WCG 2023](https://www.youtube.com/watch?v=8DkL9UfAiUU)
  
 ---
@@ -217,7 +219,7 @@ TODO
   - [»The Proper Attitude of a Martial Art Teacher«](https://web.archive.org/web/20100507034432/http://www.aikidojournal.com/article.php?articleID=552)
   - [»Training in Japan«](https://web.archive.org/web/20101202181352/http://www.aikidojournal.com/article.php?articleID=64)
   - [»Training, Training, and Training«](https://web.archive.org/web/20070822230456/http://www.aikidojournal.com/article.php?articleID=655)
-  - [»Will someone do something« ](https://web.archive.org/web/20080416142307/http://www.aikidojournal.com/article.php?articleID=392)
+  - [»Will someone do something«](https://web.archive.org/web/20080416142307/http://www.aikidojournal.com/article.php?articleID=392)
 
 ---
 
