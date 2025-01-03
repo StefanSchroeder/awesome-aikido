@@ -106,9 +106,9 @@ TODO
 - [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2) by the NYC Aikikai.
 - The Art of Aikido by Rev. Kensho Furuya:
   - [The Art of Aikido volume 1 - Introduction](https://www.youtube.com/watch?v=OLeTEt_RXnc) 
-  - [The Art of Aikido volume 2 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=GNb8Z2GParo)
-  - [The Art of Aikido volume 3 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=YGEZK8dRkrg)
-  - [The Art of Aikido volume 4 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=-zb099Gwmew)
+  - [The Art of Aikido volume 2 - Basics](https://www.youtube.com/watch?v=GNb8Z2GParo)
+  - [The Art of Aikido volume 3 - Ukemi](https://www.youtube.com/watch?v=YGEZK8dRkrg)
+  - [The Art of Aikido volume 4 - Katate tori](https://www.youtube.com/watch?v=-zb099Gwmew)
   - [The Art of Aikido volume 5 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=UAVP7hdluYc)
   - [The Art of Aikido volume 6 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=Ll2MLdD3UiA)
   - [The Art of Aikido volume 7 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=cB3kMQZmrpo)
