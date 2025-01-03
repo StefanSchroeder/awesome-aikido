@@ -38,10 +38,6 @@ TODO
   - [Morihei Ueshiba and Sokaku Takeda](https://www.youtube.com/watch?v=b9R0PNwcrUw)
   - [Morihei Ueshiba O-Sensei toys with a young Morihiro Saito in Iwama!](https://www.youtube.com/watch?v=nXMJx1ZoK-M)
   - [An introduction to Koichi Tohei](https://www.youtube.com/watch?v=oDLTeruzbsg)
-  - [Takemusu-Aiki](https://www.youtube.com/watch?v=YtkG2yKqCbQ)
-  - [Divine Techniques](https://www.youtube.com/watch?v=eiXlsEVehtQ)
-  - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U)
-  - [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ)
   - [Noriaki Inoue: Aikido's forgotten pioneer](https://www.youtube.com/watch?v=Ui5DIHA1mgo)
 - [Remembering Stanley Pranin](https://aikidojournal.com/2017/04/28/remembering-stan-pranin/)
 ---
@@ -68,6 +64,7 @@ TODO
 - [Aikido Exercises for Teaching and Training](https://www.goodreads.com/book/show/81968.Aikido_Exercises_for_Teaching_and_Training?ac=1&from_search=true&qid=k5SbnpCGtv&rank=1), also [at Google Books]([url](https://books.google.de/books?id=ytZn8GhBEAIC&printsec=frontcover#v=onepage&q&f=false)) by Carol Shifflett
 - [Budo: Teachings of the Founder of Aikido](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5) by John Stevens
 - [Remembering O-Sensei](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6) by Susan Perry
+- [Total Aikido: The Master Course](https://www.goodreads.com/book/show/90027.Total_Aikido) by Gozo Shioda
 - Morihiro Saito:
   - [Traditional Aikido Vol 1](https://www.goodreads.com/book/show/442015.Traditional_Aikido_Vol_1_Basic_Techniques?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=5) - out-of-print
   - [Traditional Aikido Vol 2 - Advanced Techniques](https://www.goodreads.com/book/show/25775666-traditional-aikido-vol-2---advanced-techniques) - out-of-print
@@ -83,7 +80,8 @@ TODO
 - Ueshiba:
   - [The Spirit of Aikido by Kisshomaru Ueshiba](https://www.goodreads.com/book/show/81972.The_Spirit_of_Aikido?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=4) 
   - [Aikido Master Course: Best Aikido 2](https://www.goodreads.com/book/show/81967.The_Aikido_Master_Course?from_search=true&from_srp=true&qid=XSayUObrCq&rank=2)
-  - [Aikido - Hardcover 1963](https://www.amazon.com/Kisshomaru-Kazuaki-Tanashi-Translators-Uyeshiba/dp/B0007IXS5E)
+  - [Aikido - Hardcover 1963](https://www.amazon.com/Kisshomaru-Kazuaki-Tanashi-Translators-Uyeshiba/dp/B0007IXS5E) out-of-print
+  - [Progressive Aikido - The Essential Elements](https://www.goodreads.com/book/show/81974.Progressive_Aikido?ref=nav_sb_ss_1_18)
 
 ---
 
@@ -94,6 +92,8 @@ TODO
 - [Channel by Guilleaume Erard](https://www.youtube.com/@guillaumeerard) - G. Erard's Channel on Youtube.
 - [Channel by IAF - International Aikido Federation](https://www.youtube.com/@Aikido-internationalOrg) - 
   - [Aikido Demonstrations - 12th IAF Congress (Live Stream)](https://www.youtube.com/watch?v=-00nzDY9_58)
+- [Channel of the Aikikai Honbu Dojo](https://www.youtube.com/@aikikaifoundationaikidohom6589)
+  - E.g. [ 【第1部】第61回全日本合気道演武大会 【Part1】The 61st All Japan Aikido Embukai ](https://www.youtube.com/watch?v=PGxAS_gAPS8)  
 - [Aikido Documentary by National Geographic](https://www.youtube.com/watch?v=9qnQGFSlwD4) - presented by Josette Normandeau.
 - [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada, [Vol 3](https://www.youtube.com/watch?v=QqNGIx9VQkQ)
 - [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2) by the NYC Aikikai.
@@ -132,7 +132,7 @@ TODO
 
 ### Historical footage
 
-There is probably some duplication in this chapter and the videos published by Stanley Pranin.
+There is probably some duplication in the videos in this section.
 
 - [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
 - [Morihei Ueshiba 1935 Rare footage](https://www.youtube.com/watch?v=mdnN5SQy6Rs)
@@ -143,7 +143,12 @@ There is probably some duplication in this chapter and the videos published by S
 - [Morihei Ueshiba O Sensei - Rare Aikido Demonstration (1957) 合気道植芝 盛平](https://www.youtube.com/watch?v=30Sa0PLquFg)
 - [1954 Aikido O Sensei](https://www.youtube.com/watch?v=tZcDc1ZYEgw)
 - [1952 Aikido Rare Footage O-Sensei & Uchi-deshi](https://www.youtube.com/watch?v=aBIYSgRsn14&list=RDQMrzLZgeZCXIc&index=25)
-- [Morihei Ueshiba - the last video]([url](https://www.youtube.com/watch?v=2W6AMM-269U))
+- [Morihei Ueshiba - the last video](https://www.youtube.com/watch?v=2W6AMM-269U)
+- [Morihei Ueshiba: The Founder of Aikido](https://www.youtube.com/watch?v=XrzYi4AZcpo) published by Aikido Journal
+- [Takemusu-Aiki](https://www.youtube.com/watch?v=YtkG2yKqCbQ) published by Aikido Journal
+- [Divine Techniques](https://www.youtube.com/watch?v=eiXlsEVehtQ) published by Aikido Journal
+- [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U) published by Aikido Journal
+- [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ) published by Aikido Journal
 
 ### Christian Tissier
 
