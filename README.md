@@ -58,11 +58,14 @@ TODO
 - [Angry White Pyjamas](https://www.goodreads.com/book/show/198051.Angry_White_Pyjamas) by Robert Twigger.
 - [Aikido Principles](https://www.stenudd.com/aikido/aikidoprinciples-book.htm) - by Stefan Stenudd
 - [Dueling with O-Sensei](https://www.goodreads.com/book/show/31671372-dueling-with-o-sensei) by Ellis Amdur
-- [Aikido](https://www.goodreads.com/book/show/1789881.Aikido?from_search=true&from_srp=true&qid=yWjerSJmLc&rank=7) by Koichi Tohei
-- [This is Aikido](https://www.goodreads.com/book/show/1789875.This_Is_Aikido_With_Mind_and_Body_Coordinated) by Koichi Tohei
+- [Aikido](https://www.goodreads.com/book/show/1789881.Aikido?from_search=true&from_srp=true&qid=yWjerSJmLc&rank=7) out-of-print by Koichi Tohei
+- [This is Aikido](https://www.goodreads.com/book/show/1789875.This_Is_Aikido_With_Mind_and_Body_Coordinated) out-of-print by Koichi Tohei
 - [It's a lot like dancing](https://www.goodreads.com/book/show/649145.It_s_a_Lot_Like_Dancing?ac=1&from_search=true&qid=PFjcGQP4uD&rank=1) by Terry Dobson
 - [Aikido Exercises for Teaching and Training](https://www.goodreads.com/book/show/81968.Aikido_Exercises_for_Teaching_and_Training?ac=1&from_search=true&qid=k5SbnpCGtv&rank=1), also [at Google Books]([url](https://books.google.de/books?id=ytZn8GhBEAIC&printsec=frontcover#v=onepage&q&f=false)) by Carol Shifflett
-- [Budo: Teachings of the Founder of Aikido](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5) by John Stevens
+- John Stevens:
+  - [Budo: Teachings of the Founder of Aikido](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5)
+  - The Art of Peace
+  - The Shambala Guide to Aikido
 - [Remembering O-Sensei](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6) by Susan Perry
 - [Total Aikido: The Master Course](https://www.goodreads.com/book/show/90027.Total_Aikido) by Gozo Shioda
 - Morihiro Saito:
@@ -82,7 +85,11 @@ TODO
   - [Aikido Master Course: Best Aikido 2](https://www.goodreads.com/book/show/81967.The_Aikido_Master_Course?from_search=true&from_srp=true&qid=XSayUObrCq&rank=2)
   - [Aikido - Hardcover 1963](https://www.amazon.com/Kisshomaru-Kazuaki-Tanashi-Translators-Uyeshiba/dp/B0007IXS5E) out-of-print
   - [Progressive Aikido - The Essential Elements](https://www.goodreads.com/book/show/81974.Progressive_Aikido?ref=nav_sb_ss_1_18)
-
+- Walter von Krenner:
+  - Atemi
+  - Aikido Ground Fighting
+  - Training with the Master, Lessons with Morihei Ueshiba
+    
 ---
 
 ## Videos
@@ -98,7 +105,7 @@ TODO
 - [The Power and the the Basics Vol 1](https://www.youtube.com/watch?v=XrFbhQPOJRw) by Yoshimitsu Yamada, [Vol 3](https://www.youtube.com/watch?v=QqNGIx9VQkQ)
 - [How to Cast - How to do Aikido - Series w 37 parts](https://www.youtube.com/watch?v=vZXt0_Kf5GE&list=PL970B7BDB368DB950&index=2) by the NYC Aikikai.
 - The Art of Aikido by Rev. Kensho Furuya:
-  - [The Art of Aikido volume 1 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=OLeTEt_RXnc) 
+  - [The Art of Aikido volume 1 - Introduction](https://www.youtube.com/watch?v=OLeTEt_RXnc) 
   - [The Art of Aikido volume 2 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=GNb8Z2GParo)
   - [The Art of Aikido volume 3 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=YGEZK8dRkrg)
   - [The Art of Aikido volume 4 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=-zb099Gwmew)
@@ -121,7 +128,7 @@ TODO
   - [The Heart of Aikido](https://www.youtube.com/watch?v=eZ7ZNkIRRMU) 1h Documentary
   - [Essentials of Aikido Vol 1](https://www.youtube.com/watch?v=QqNGIx9VQkQ)
   - [Essentials of Aikido Vol 2](https://www.youtube.com/watch?v=4Q-wtopf3UQ)
-- [Donovan Waite 7 - Ukemi I - Meeting the Mat](https://www.youtube.com/watch?v=Bv7sHrZ0yGs)
+- [Donovan Waite - Ukemi - Meeting the Mat](https://www.youtube.com/watch?v=Bv7sHrZ0yGs)
 - [Robert Frager - Floating Bridge of Heaven Pt 1](https://www.youtube.com/watch?v=wof9sSZ4lpg)
 - [Robert Frager - Floating Bridge of Heaven Pt 2](https://www.youtube.com/watch?v=WxvAw23B6Xo)
 - [Penny Bernath Zoom Aikido Class IAF Campaign](https://www.youtube.com/watch?v=vK63bNyuhQU)
