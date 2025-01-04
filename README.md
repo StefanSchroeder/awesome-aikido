@@ -35,11 +35,16 @@ TODO
 - [Aikido Journal Website](https://aikidojournal.com/) - For many years the most important Aikido resource online, founded by Stanley Pranin
 - [Aikido Journal Youtube Channel](https://www.youtube.com/@AikidoJournalOnline/videos) - Founded by Stanley Pranin
   - [Stanley Pranin introduces "Aikido History 101"](https://www.youtube.com/watch?v=FXXdl5gjSKk)
+  - [Morihei Ueshiba's Daito-ryu Aikijujutsu Teaching Certification](https://www.youtube.com/watch?v=72JuZp54L2w) 
   - [Morihei Ueshiba and Sokaku Takeda](https://www.youtube.com/watch?v=b9R0PNwcrUw)
   - [Morihei Ueshiba O-Sensei toys with a young Morihiro Saito in Iwama!](https://www.youtube.com/watch?v=nXMJx1ZoK-M)
   - [An introduction to Koichi Tohei](https://www.youtube.com/watch?v=oDLTeruzbsg)
   - [Noriaki Inoue: Aikido's forgotten pioneer](https://www.youtube.com/watch?v=Ui5DIHA1mgo)
-- [Remembering Stanley Pranin](https://aikidojournal.com/2017/04/28/remembering-stan-pranin/)
+  - [Aikikai ballistic over Michio Hikitsuchi's 10th Dan!](https://www.youtube.com/watch?v=KU9mpJ_DHwY)
+  - [The Martial Artistry of Seigo Yamaguchi ](https://www.youtube.com/watch?v=4sPXc427ZHM)
+  - [Remembering Seigo Yamaguchi, "Master of Balance"](https://www.youtube.com/watch?v=OOnWSaS3upk)
+- [Article: Remembering Stanley Pranin](https://aikidojournal.com/2017/04/28/remembering-stan-pranin/)
+
 ---
 
 ### Non-Free Courses
@@ -47,7 +52,7 @@ TODO
 - [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - (Free teaser: https://patricia-hendricks-s-school.teachable.com/courses/)
 - [Miles Kessler's Bokken Course](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
 - [Bruce Bookman's Aikido Extensions](https://academy.aikidojournal.com/Aikido-Extensions) - extending classical aikido to modern attacks, [Teaser on YT Shiho-nage to Sankyo](https://www.youtube.com/watch?v=lfusO4hEJg0)
-- [Stanley Pranin's Zone Theory of Aikido](no link) - with [free trailer on YT](https://www.youtube.com/watch?v=Zp5GZatcyyY)
+- [Stanley Pranin's Zone Theory of Aikido](no link) - with [Intro to Stanley Pranin's "Zone Theory of Aikido"... What's It All About?](https://www.youtube.com/watch?v=7srNthMNcuY)
 - [Stanley Pranin's Zone Theory of Aikido 2.0](no link) - with [free trailer on YT](https://www.youtube.com/watch?v=lEBqnP-FQyc)
 
 ---
@@ -123,11 +128,14 @@ TODO
 - Morihiro Saito:
   - [Playlist Morihiro Saito: Lost Seminars, Series with 6 videos](https://www.youtube.com/playlist?list=PLFt5GPXqdOYdMAPxvr9fomz20pYnEPvn8)
   - [TAKEMUSU AIKI](https://www.youtube.com/watch?v=T0n3W4wCTec)
+  - [Saito's Aiki-Ken](https://www.youtube.com/watch?v=dWbJRpDrqLM)
+  - [Saito's Aiki-Jo](https://www.youtube.com/watch?v=h2IqritLhhs)
 - [Bruno Gonzalez - Jo-Dori Series w 26 videos](https://www.youtube.com/watch?v=5_dfKNhHnxo&list=PLCN0FLYSyAKAg16ZUC8pi3UtA4UHNLICX)
 - Hikitsuchi Michio:
   - [The Heart of Aikido](https://www.youtube.com/watch?v=eZ7ZNkIRRMU) 1h Documentary
   - [Essentials of Aikido Vol 1](https://www.youtube.com/watch?v=QqNGIx9VQkQ)
   - [Essentials of Aikido Vol 2](https://www.youtube.com/watch?v=4Q-wtopf3UQ)
+- [Shoji Nishio Playlist, including a 7 volume series course](https://www.youtube.com/playlist?list=PLdqd63ojD06uWepmygOTT5CKoEohFNY_z)
 - [Donovan Waite - Ukemi - Meeting the Mat](https://www.youtube.com/watch?v=Bv7sHrZ0yGs)
 - [Robert Frager - Floating Bridge of Heaven Pt 1](https://www.youtube.com/watch?v=wof9sSZ4lpg)
 - [Robert Frager - Floating Bridge of Heaven Pt 2](https://www.youtube.com/watch?v=WxvAw23B6Xo)
