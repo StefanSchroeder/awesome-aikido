@@ -74,7 +74,7 @@ TODO
 - [Remembering O-Sensei](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6) by Susan Perry
 - [Total Aikido: The Master Course](https://www.goodreads.com/book/show/90027.Total_Aikido) by Gozo Shioda
 - Morihiro Saito:
-  - [Traditional Aikido Vol 1](https://www.goodreads.com/book/show/442015.Traditional_Aikido_Vol_1_Basic_Techniques?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=5) - out-of-print
+  - [Traditional Aikido Vol 1 - Basic Techniques](https://www.goodreads.com/book/show/442015.Traditional_Aikido_Vol_1_Basic_Techniques?from_search=true&from_srp=true&qid=3UI6mvF4YE&rank=5) - out-of-print
   - [Traditional Aikido Vol 2 - Advanced Techniques](https://www.goodreads.com/book/show/25775666-traditional-aikido-vol-2---advanced-techniques) - out-of-print
   - [Traditional Aikido Vol 3 - Applied Techniques](https://www.goodreads.com/book/show/7739267-traditional-aikido-vol-3---applied-techniques) - out-of-print
   - [Traditional Aikido Vol 4 - Vital Techniques](https://www.goodreads.com/book/show/10208503-traditional-aikido-vol-4---vital-techniques) - out-of-print
