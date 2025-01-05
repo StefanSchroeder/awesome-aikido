@@ -60,7 +60,7 @@ TODO
 ### Books
 
 - [Aikido and the Dynamic Sphere](https://www.goodreads.com/book/show/81966.Aikido_and_the_Dynamic_Sphere?ref=nav_sb_ss_1_14) by Westbrook and Ratti
-- [Angry White Pyjamas](https://www.goodreads.com/book/show/198051.Angry_White_Pyjamas) by Robert Twigger.
+- [Angry White Pyjamas](https://www.goodreads.com/book/show/198051.Angry_White_Pyjamas) A Scrawny Oxford Poet Takes Lessons from the Tokyo Riot Police - by Robert Twigger.
 - [Aikido Principles](https://www.stenudd.com/aikido/aikidoprinciples-book.htm) - by Stefan Stenudd
 - [Dueling with O-Sensei](https://www.goodreads.com/book/show/31671372-dueling-with-o-sensei) by Ellis Amdur
 - [Aikido](https://www.goodreads.com/book/show/1789881.Aikido?from_search=true&from_srp=true&qid=yWjerSJmLc&rank=7) out-of-print by Koichi Tohei
@@ -69,7 +69,7 @@ TODO
 - [Aikido Exercises for Teaching and Training](https://www.goodreads.com/book/show/81968.Aikido_Exercises_for_Teaching_and_Training?ac=1&from_search=true&qid=k5SbnpCGtv&rank=1), also [at Google Books]([url](https://books.google.de/books?id=ytZn8GhBEAIC&printsec=frontcover#v=onepage&q&f=false)) by Carol Shifflett
 - John Stevens:
   - [Budo: Teachings of the Founder of Aikido](https://www.goodreads.com/book/show/336890.Budo?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=5)
-  - The Art of Peace
+  - [The Art of Peace](https://www.goodreads.com/book/show/336889.The_Art_of_Peace)
   - The Shambala Guide to Aikido
 - [Remembering O-Sensei](https://www.goodreads.com/book/show/336891.Remembering_O_Sensei?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=6) by Susan Perry
 - [Total Aikido: The Master Course](https://www.goodreads.com/book/show/90027.Total_Aikido) by Gozo Shioda
@@ -114,10 +114,10 @@ TODO
   - [The Art of Aikido volume 2 - Basics](https://www.youtube.com/watch?v=GNb8Z2GParo)
   - [The Art of Aikido volume 3 - Ukemi](https://www.youtube.com/watch?v=YGEZK8dRkrg)
   - [The Art of Aikido volume 4 - Katate tori](https://www.youtube.com/watch?v=-zb099Gwmew)
-  - [The Art of Aikido volume 5 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=UAVP7hdluYc)
-  - [The Art of Aikido volume 6 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=Ll2MLdD3UiA)
-  - [The Art of Aikido volume 7 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=cB3kMQZmrpo)
-  - [The Art of Aikido volume 8 by Rev. Kensho Furuya](https://www.youtube.com/watch?v=8IfxCMmTiPs)
+  - [The Art of Aikido volume 5 - Suwari Waza](https://www.youtube.com/watch?v=UAVP7hdluYc)
+  - [The Art of Aikido volume 6 - Tsuki](https://www.youtube.com/watch?v=Ll2MLdD3UiA)
+  - [The Art of Aikido volume 7 - Shomen uchi](https://www.youtube.com/watch?v=cB3kMQZmrpo)
+  - [The Art of Aikido volume 8 - Atemi Waza](https://www.youtube.com/watch?v=8IfxCMmTiPs)
 - [Steve Magson - 2018 Series with 43 videos](https://www.youtube.com/playlist?list=PLwHVRihJdIsLYOoLf0FTmVLrq4QRPa2jF)
 - Saotome Mitsugi:
   - [The Principles of Aikido](https://www.youtube.com/watch?v=x_ozInaKpLI)
@@ -184,12 +184,16 @@ There is probably some duplication in the videos in this section.
  - [Tissier Bercy 2004](https://www.youtube.com/watch?v=6yW-bCmsMw0)
  - [Tissier Bercy 2005](https://www.youtube.com/watch?v=9MIVo68o6Sg)
  - [Tissier Bercy 2008](https://www.youtube.com/watch?v=0mJSHEyyKZg)
- - [29th - Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
+ - [Tissier Bercy 2009](https://www.youtube.com/watch?v=kD_6jCitapc)
+ - [Tissier Bercy 2010](https://www.youtube.com/watch?v=-9xFJRY2Ukk)
+ - [Gonzalez Bercy 2011 - Playlist](https://www.youtube.com/watch?v=Y8is-ihz_qI&list=PLBADC5001FB6B7BA3)
  - [Tamaki Bercy 2014](https://www.youtube.com/watch?v=yDCya8xCpSs)
- - [Tissier Bercy 2015](https://www.youtube.com/watch?v=8B8E2T6XRs8)
- - [Tamaki Bercy 2018](https://www.youtube.com/watch?v=Y4qnm_G4V-E)
- - [Flocquet Bercy - L'Aïkido au 31e Festival des Arts Martiaux](https://youtu.be/QMXZggEOuV4?si=LE6G4ePDyh6g851o)
- - [Russia Aikido - 34th Martial Arts Festival in Paris](https://youtu.be/OJ4jOfVAJuA?si=yBF60KbYW1mu6l1v)
+ - [30th - Tissier Bercy 2015](https://www.youtube.com/watch?v=8B8E2T6XRs8)
+ - [31st - Russia Bercy 2016](https://www.youtube.com/watch?v=hEu5jlLG-58)
+ - [31st - Blaize Bercy 2016](https://youtu.be/QMXZggEOuV4?si=LE6G4ePDyh6g851o)
+ - [32nd - Gonzalez Bercy 2017](https://www.youtube.com/watch?v=JUoJZHfSQvo)
+ - [33rd - Tamaki Bercy2018](https://www.youtube.com/watch?v=Y4qnm_G4V-E)
+ - [34th - Russia Bercy 2019](https://youtu.be/OJ4jOfVAJuA?si=yBF60KbYW1mu6l1v)
  - [34th - Blaize Bercy 2019](https://www.youtube.com/watch?v=BVDR04VbSbY)
  - [35th - Gonzalez Bercy 2022](https://www.youtube.com/watch?v=S4r6Sz9-iGo)
  - [36th - Gonzalez Bercy 2023](https://www.youtube.com/watch?v=aZfSDQL8dEw)
@@ -266,6 +270,32 @@ There is probably some duplication in the videos in this section.
   - [»Will someone do something«](https://web.archive.org/web/20080416142307/http://www.aikidojournal.com/article.php?articleID=392)
 
 ---
+
+## Budo/Bushido Classics
+
+- [Hagakure](https://www.goodreads.com/book/show/277950.Hagakure?ref=rae_0) translated by William Scott Wilson
+- [Bushido Shoshinshu](https://www.goodreads.com/book/show/44950.Code_of_the_Samurai?ac=1&from_search=true&qid=avwqhNBjnS&rank=1) translated by Thomas Cleary, images by Oscar Ratti
+- [Book of Five Rings](https://www.goodreads.com/book/show/40886418-the-complete-musashi?from_search=true&from_srp=true&qid=Ios4XSEnJh&rank=3) new translation by Alex Bennett
+- [The Live Giving Sword](https://www.goodreads.com/book/show/364734.The_Life_Giving_Sword) by Yagyu Munenori
+
+## Dave Lowry
+
+If you asked me, all books by Dave Lowry should be required reading (except perhaps the Sushi book).
+
+- Bokken
+- Jo
+- Sword and Brush
+- Moving Toward Stillness
+- Autumn Lightning
+- Traditions
+- Clouds in the West
+- Persimmon Wind
+- The Best of Dave Lowry
+- In the Dojo
+- The Karate Way
+- The Essence of Budo
+- The Connoisseur’s Guide to Sushi
+- Chinese Cooking for Diamond Thieves
 
 ## Misc
 
