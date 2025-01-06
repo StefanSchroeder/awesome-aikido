@@ -9,9 +9,18 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) lists.
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Resources](#resources)
-  - [Books](#books)   
-  - [Articles](#articles)
+- [General Resources](#general-resources)
+- [Stanley Pranin](#stanley-pranin)
+- [Non-Free Courses](#non-free-courses)
+- [Books](#books)   
+- [Videos](#videos)   
+- [Historical Footage](#historical-footage)   
+- [Christian Tissier](#christian-tissier)
+- [Festival des Arts Martiaux Paris Bercy](#festival-des-arts-martiaux-paris-bercy)
+- [World (Combat) Games](#world-(combat)-games)
+- [Classics](#classics)
+- [Dave Lowry](#dave-lowry)
+- [Misc](#misc)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -271,7 +280,7 @@ There is probably some duplication in the videos in this section.
 
 ---
 
-## Budo/Bushido Classics
+## Classics
 
 - [Hagakure](https://www.goodreads.com/book/show/277950.Hagakure?ref=rae_0) translated by William Scott Wilson
 - [Bushido Shoshinshu](https://www.goodreads.com/book/show/44950.Code_of_the_Samurai?ac=1&from_search=true&qid=avwqhNBjnS&rank=1) translated by Thomas Cleary, images by Oscar Ratti
