@@ -58,7 +58,8 @@ TODO
 
 ### Non-Free Courses
 
-- [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - (Free teaser: https://patricia-hendricks-s-school.teachable.com/courses/)
+- [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - [Preview]([url](https://www.youtube.com/watch?v=TdOqA8hthII))
+- [Patricia Hendricks Course at Teachable](https://patricia-hendricks-s-school.teachable.com/courses/) - [Free teaser](https://patricia-hendricks-s-school.teachable.com/courses/)
 - [Miles Kessler's Bokken Course](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
 - [Bruce Bookman's Aikido Extensions](https://academy.aikidojournal.com/Aikido-Extensions) - extending classical aikido to modern attacks, [Teaser on YT Shiho-nage to Sankyo](https://www.youtube.com/watch?v=lfusO4hEJg0)
 - [Stanley Pranin's Zone Theory of Aikido](no link) - with [Intro to Stanley Pranin's "Zone Theory of Aikido"... What's It All About?](https://www.youtube.com/watch?v=7srNthMNcuY)
@@ -100,9 +101,9 @@ TODO
   - [Aikido - Hardcover 1963](https://www.amazon.com/Kisshomaru-Kazuaki-Tanashi-Translators-Uyeshiba/dp/B0007IXS5E) out-of-print
   - [Progressive Aikido - The Essential Elements](https://www.goodreads.com/book/show/81974.Progressive_Aikido?ref=nav_sb_ss_1_18)
 - Walter von Krenner:
-  - Atemi
-  - Aikido Ground Fighting
-  - Training with the Master, Lessons with Morihei Ueshiba
+  - [Atemi](https://www.goodreads.com/book/show/29726727-atemi)
+  - [Aikido Ground Fighting](https://www.goodreads.com/book/show/16071844-aikido-ground-fighting?ref=nav_sb_ss_1_13)
+  - [Training with the Master, Lessons with Morihei Ueshiba](https://www.goodreads.com/book/show/288949.Training_with_the_Master?ref=nav_sb_ss_1_22)
     
 ---
 
