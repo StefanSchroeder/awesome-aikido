@@ -27,7 +27,11 @@ Inspired by [awesome](https://github.com/sindresorhus/awesome) lists.
 ---
 
 ## Introduction
-TODO
+
+This list is an amalgamation of my collected bookmarks and a series of posts that were 
+collected during the pandemic. It's a list of awesome aikido (and related) websites and URLs.
+
+Feel free to comment, share, and contribute.
 
 ---
 
