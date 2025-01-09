@@ -58,8 +58,8 @@ TODO
 
 ### Non-Free Courses
 
-- [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - [Preview]([url](https://www.youtube.com/watch?v=TdOqA8hthII))
-- [Patricia Hendricks Course at Teachable](https://patricia-hendricks-s-school.teachable.com/courses/) - [Free teaser](https://patricia-hendricks-s-school.teachable.com/courses/)
+- [Patricia Hendricks Blackbelt Essentials](https://academy.aikidojournal.com/black-belt-essentials) - [Preview](https://www.youtube.com/watch?v=TdOqA8hthII)
+- [Patricia Hendricks Course at Teachable](https://patricia-hendricks-s-school.teachable.com/courses/) - Include free preview: syllabus for 6. and 5. kyu
 - [Miles Kessler's Bokken Course](https://store.theintegraldojo.com/aiki-ken-masterclass-course-one-basics-principles-of-bokken) - A bokken course by Miles Kessler.
 - [Bruce Bookman's Aikido Extensions](https://academy.aikidojournal.com/Aikido-Extensions) - extending classical aikido to modern attacks, [Teaser on YT Shiho-nage to Sankyo](https://www.youtube.com/watch?v=lfusO4hEJg0)
 - [Stanley Pranin's Zone Theory of Aikido](no link) - with [Intro to Stanley Pranin's "Zone Theory of Aikido"... What's It All About?](https://www.youtube.com/watch?v=7srNthMNcuY)
