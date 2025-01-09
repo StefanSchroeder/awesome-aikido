@@ -100,7 +100,7 @@ TODO
   - [Aikido Master Course: Best Aikido 2](https://www.goodreads.com/book/show/81967.The_Aikido_Master_Course?from_search=true&from_srp=true&qid=XSayUObrCq&rank=2)
   - [Aikido - Hardcover 1963](https://www.amazon.com/Kisshomaru-Kazuaki-Tanashi-Translators-Uyeshiba/dp/B0007IXS5E) out-of-print
   - [Progressive Aikido - The Essential Elements](https://www.goodreads.com/book/show/81974.Progressive_Aikido?ref=nav_sb_ss_1_18)
-- Walter von Krenner:
+- Walther von Krenner:
   - [Atemi](https://www.goodreads.com/book/show/29726727-atemi)
   - [Aikido Ground Fighting](https://www.goodreads.com/book/show/16071844-aikido-ground-fighting?ref=nav_sb_ss_1_13)
   - [Training with the Master, Lessons with Morihei Ueshiba](https://www.goodreads.com/book/show/288949.Training_with_the_Master?ref=nav_sb_ss_1_22)
