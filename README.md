@@ -160,18 +160,15 @@ Many of these books can be purchased used, but some are exceptionally rare.
 - [Moriteru Ueshiba - 7 Volume Video Series Kihon](https://www.youtube.com/watch?v=ppz74vR1fbY&list=PLFL16jAsuVuYhl_Tji4DGQ7KVg8aEbJcP)
 - [Ueshiba Family Kihon](https://www.youtube.com/watch?v=KRQIpDFB5eE)
 - [Tamura Nobuyoshi, techniques du grand maître de l'aïkido](https://www.youtube.com/watch?v=KRQIpDFB5eE)
-- [Sugano Playlist](https://www.youtube.com/playlist?list=PLe8dMeupuxj8s0WqBbbAgrCHmimetRP4j)
+- [Seiichi Sugano Playlist](https://www.youtube.com/playlist?list=PLe8dMeupuxj8s0WqBbbAgrCHmimetRP4j)
 
 ### Historical footage
 
 There is probably some duplication in the videos in this section.
 
-- [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
 - [Morihei Ueshiba 1935 Rare footage](https://www.youtube.com/watch?v=mdnN5SQy6Rs)
 - [Aikido performance by Morihei Ueshiba in 1960 合気道](https://www.youtube.com/watch?v=z7mxPWyb9q0)
 - [植芝 盛平](https://www.youtube.com/watch?v=hFM9OViKtAM)
-- [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
-- [Interview with André Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
 - [Morihei Ueshiba O Sensei - Rare Aikido Demonstration (1957) 合気道植芝 盛平](https://www.youtube.com/watch?v=30Sa0PLquFg)
 - [1954 Aikido O Sensei](https://www.youtube.com/watch?v=tZcDc1ZYEgw)
 - [1952 Aikido Rare Footage O-Sensei & Uchi-deshi](https://www.youtube.com/watch?v=aBIYSgRsn14&list=RDQMrzLZgeZCXIc&index=25)
@@ -181,6 +178,9 @@ There is probably some duplication in the videos in this section.
 - [Divine Techniques](https://www.youtube.com/watch?v=eiXlsEVehtQ) published by Aikido Journal
 - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U) published by Aikido Journal
 - [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ) published by Aikido Journal
+- [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
+- [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
+- [Interview with André Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
 
 ### Christian Tissier
 
@@ -284,7 +284,7 @@ There is probably some duplication in the videos in this section.
   - [»The Proper Attitude of a Martial Art Teacher«](https://web.archive.org/web/20100507034432/http://www.aikidojournal.com/article.php?articleID=552)
   - [»Training in Japan«](https://web.archive.org/web/20101202181352/http://www.aikidojournal.com/article.php?articleID=64)
   - [»Training, Training, and Training«](https://web.archive.org/web/20070822230456/http://www.aikidojournal.com/article.php?articleID=655)
-  - [»Will someone do something«](https://web.archive.org/web/20080416142307/http://www.aikidojournal.com/article.php?articleID=392)
+  - [»Will someone do something?«](https://web.archive.org/web/20080416142307/http://www.aikidojournal.com/article.php?articleID=392)
 
 ---
 
