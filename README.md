@@ -73,6 +73,8 @@ Feel free to comment, share, and contribute.
 
 ### Books
 
+Many of these books can be purchased used, but some are exceptionally rare.
+
 - [Aikido and the Dynamic Sphere](https://www.goodreads.com/book/show/81966.Aikido_and_the_Dynamic_Sphere?ref=nav_sb_ss_1_14) by Westbrook and Ratti
 - [Angry White Pyjamas](https://www.goodreads.com/book/show/198051.Angry_White_Pyjamas) A Scrawny Oxford Poet Takes Lessons from the Tokyo Riot Police - by Robert Twigger.
 - [Aikido Principles](https://www.stenudd.com/aikido/aikidoprinciples-book.htm) - by Stefan Stenudd
