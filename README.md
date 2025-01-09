@@ -102,7 +102,8 @@ Many of these books can be purchased used, but some are exceptionally rare.
   - [Takemusu Aikido Vol 5 - Bukidori & Ninindori](https://www.goodreads.com/book/show/28447515-takemusu-aikido)
   - [Takemusu Aikido Vol 6 - Budo](https://www.goodreads.com/book/show/2713871-takemusu-aikido-special-edition)
 - Ueshiba:
-  - [The Spirit of Aikido by Kisshomaru Ueshiba](https://www.goodreads.com/book/show/81972.The_Spirit_of_Aikido?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=4) 
+  - [The Spirit of Aikido by Kisshomaru Ueshiba](https://www.goodreads.com/book/show/81972.The_Spirit_of_Aikido?from_search=true&from_srp=true&qid=N3JU6GKmtO&rank=4)
+  - [Best Aikido - Fundamentals](https://www.goodreads.com/book/show/81969.Best_Aikido?ref=rae_0)
   - [Aikido Master Course: Best Aikido 2](https://www.goodreads.com/book/show/81967.The_Aikido_Master_Course?from_search=true&from_srp=true&qid=XSayUObrCq&rank=2)
   - [Aikido - Hardcover 1963](https://www.amazon.com/Kisshomaru-Kazuaki-Tanashi-Translators-Uyeshiba/dp/B0007IXS5E) out-of-print
   - [Progressive Aikido - The Essential Elements](https://www.goodreads.com/book/show/81974.Progressive_Aikido?ref=nav_sb_ss_1_18)
