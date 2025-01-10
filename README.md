@@ -173,7 +173,7 @@ There is probably some duplication in the videos in this section.
 - [1954 Aikido O Sensei](https://www.youtube.com/watch?v=tZcDc1ZYEgw)
 - [1952 Aikido Rare Footage O-Sensei & Uchi-deshi](https://www.youtube.com/watch?v=aBIYSgRsn14&list=RDQMrzLZgeZCXIc&index=25)
 - [Morihei Ueshiba - the last video](https://www.youtube.com/watch?v=2W6AMM-269U)
-- [Morihei Ueshiba: The Founder of Aikido](https://www.youtube.com/watch?v=XrzYi4AZcpo) published by Aikido Journal
+- [Morihei Ueshiba: The Founder of Aikido 1961](https://www.youtube.com/watch?v=XrzYi4AZcpo) published by Aikido Journal
 - [Takemusu-Aiki](https://www.youtube.com/watch?v=YtkG2yKqCbQ) published by Aikido Journal
 - [Divine Techniques](https://www.youtube.com/watch?v=eiXlsEVehtQ) published by Aikido Journal
 - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U) published by Aikido Journal
