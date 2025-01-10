@@ -171,7 +171,6 @@ There is probably some duplication in the videos in this section.
 - [植芝 盛平](https://www.youtube.com/watch?v=hFM9OViKtAM)
 - [Morihei Ueshiba O Sensei - Rare Aikido Demonstration (1957) 合気道植芝 盛平](https://www.youtube.com/watch?v=30Sa0PLquFg)
 - [1954 Aikido O Sensei](https://www.youtube.com/watch?v=tZcDc1ZYEgw)
-- [Morihei Ueshiba - the last video](https://www.youtube.com/watch?v=2W6AMM-269U)
 - [Morihei Ueshiba: The Founder of Aikido 1961](https://www.youtube.com/watch?v=XrzYi4AZcpo) published by Aikido Journal
 - [Takemusu-Aiki 1952/1955/1957/1958](https://www.youtube.com/watch?v=YtkG2yKqCbQ) published by Aikido Journal
 - [Divine Techniques 1962/1964/1966/1967](https://www.youtube.com/watch?v=eiXlsEVehtQ), featuring Terry Dobson, published by Aikido Journal
