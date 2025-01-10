@@ -299,20 +299,20 @@ There is probably some duplication in the videos in this section.
 
 If you asked me, all books by Dave Lowry should be required reading (except perhaps the Sushi book).
 
-- Bokken
-- Jo
-- Sword and Brush
-- Moving Toward Stillness
-- Autumn Lightning
-- Traditions
-- Clouds in the West
-- Persimmon Wind
-- The Best of Dave Lowry
-- In the Dojo
-- The Karate Way
-- The Essence of Budo
-- The Connoisseur’s Guide to Sushi
-- Chinese Cooking for Diamond Thieves
+- [Bokken](https://www.goodreads.com/book/show/500798.Bokken_Art_of_the_Japanese_Sword)
+- [Jo](https://www.goodreads.com/book/show/285001.Jo)
+- [Sword and Brush](https://www.goodreads.com/book/show/500797.Sword_and_Brush)
+- [Moving Toward Stillness](https://www.goodreads.com/book/show/979227.Moving_toward_Stillness)
+- [Autumn Lightning](https://www.goodreads.com/book/show/410086.Autumn_Lightning)
+- [Traditions](https://www.goodreads.com/book/show/500791.Traditions)
+- [Clouds in the West](https://www.goodreads.com/book/show/111428.Clouds_in_the_West)
+- [Persimmon Wind](https://www.goodreads.com/book/show/1144603.Persimmon_Wind)
+- [The Best of Dave Lowry](https://www.goodreads.com/book/show/109925.The_Best_of_Dave_Lowry)
+- [In the Dojo](https://www.goodreads.com/book/show/111426.In_the_Dojo)
+- [The Karate Way](https://www.goodreads.com/book/show/6117099-the-karate-way)
+- [The Essence of Budo](https://www.goodreads.com/book/show/8327280-the-essence-of-budo)
+- [The Connoisseur’s Guide to Sushi](https://www.goodreads.com/book/show/237968.The_Connoisseur_s_Guide_to_Sushi)
+- [Chinese Cooking for Diamond Thieves](https://www.goodreads.com/book/show/18222701-chinese-cooking-for-diamond-thieves) - a crime novel about a college student who prefers to cook in Chinese restaurants and who meets a girl who is on the run
 
 ## Misc
 
