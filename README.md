@@ -174,7 +174,7 @@ There is probably some duplication in the videos in this section.
 - [Morihei Ueshiba - the last video](https://www.youtube.com/watch?v=2W6AMM-269U)
 - [Morihei Ueshiba: The Founder of Aikido 1961](https://www.youtube.com/watch?v=XrzYi4AZcpo) published by Aikido Journal
 - [Takemusu-Aiki 1952/1955/1957/1958](https://www.youtube.com/watch?v=YtkG2yKqCbQ) published by Aikido Journal
-- [Divine Techniques 1962](https://www.youtube.com/watch?v=eiXlsEVehtQ), featuring Terry Dobson, published by Aikido Journal
+- [Divine Techniques 1962/1964](https://www.youtube.com/watch?v=eiXlsEVehtQ), featuring Terry Dobson, published by Aikido Journal
 - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U) published by Aikido Journal
 - [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ) published by Aikido Journal
 - [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
