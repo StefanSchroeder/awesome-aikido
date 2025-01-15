@@ -183,11 +183,15 @@ There is probably some duplication in the videos in this section.
 - [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
 - [Interview with André Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
 
+---
+
 ### Christian Tissier
 
 - [Christian Tissier - Vol 1. Immobilizations](https://www.youtube.com/watch?v=6HhRSO826Ww)
 - [Christian Tissier - Vol 2. Projections](https://www.youtube.com/watch?v=LzJScCqOMb8)
- 
+
+---
+
 ### Festival des Arts Martiaux Paris Bercy
 
  - [Nocquet/Tissier Bercy 1989](https://www.youtube.com/watch?v=DRPDt_zMLis)
@@ -216,6 +220,8 @@ There is probably some duplication in the videos in this section.
  - [35th - Gonzalez Bercy 2022](https://www.youtube.com/watch?v=S4r6Sz9-iGo)
  - [36th - Gonzalez Bercy 2023](https://www.youtube.com/watch?v=aZfSDQL8dEw)
  - [37th - Gonzalez Bercy 2024](https://www.youtube.com/watch?v=FyHLUdGYCgU)
+
+---
 
 ###  World (Combat) Games
 
@@ -296,6 +302,8 @@ There is probably some duplication in the videos in this section.
 - [Book of Five Rings](https://www.goodreads.com/book/show/40886418-the-complete-musashi?from_search=true&from_srp=true&qid=Ios4XSEnJh&rank=3) new translation by Alex Bennett
 - [The Live Giving Sword](https://www.goodreads.com/book/show/364734.The_Life_Giving_Sword) by Yagyu Munenori
 
+---
+
 ## Dave Lowry
 
 If you asked me, all books by Dave Lowry should be required reading (except perhaps the Sushi book).
@@ -314,6 +322,8 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 - [The Essence of Budo](https://www.goodreads.com/book/show/8327280-the-essence-of-budo)
 - [The Connoisseur’s Guide to Sushi](https://www.goodreads.com/book/show/237968.The_Connoisseur_s_Guide_to_Sushi)
 - [Chinese Cooking for Diamond Thieves](https://www.goodreads.com/book/show/18222701-chinese-cooking-for-diamond-thieves) - a crime novel about a college student who prefers to cook in Chinese restaurants and who meets a girl who is on the run
+
+---
 
 ## Misc
 
