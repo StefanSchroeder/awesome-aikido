@@ -177,6 +177,8 @@ There is probably some duplication in the videos in this section.
 - [Way of Harmony](https://www.youtube.com/watch?v=Ws2Iczref5U) published by Aikido Journal
 - [Budo 1935](https://www.youtube.com/watch?v=98yRuBkUBGQ) published by Aikido Journal
 - [Koichi Tohei 10th Dan - Rare Aikido Demonstration (1957)](https://www.youtube.com/watch?v=vigQ9S_srPc)
+- [Koichi Tohei teaching at Hombu Dojo 1962](https://www.youtube.com/watch?v=fNVmmRqIHjc)
+- [Koichi Tohei - Fundamental Concept Principle and Elementary Course](https://www.youtube.com/watch?v=ILfn2Thw3tA)
 - [Aikido - André Nocquet - documentaire 1964](https://www.youtube.com/watch?v=aJtHblyGoRg)
 - [Interview with André Nocquet](https://www.youtube.com/watch?v=z_IzzBSIg5Y)
 
