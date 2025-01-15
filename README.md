@@ -300,7 +300,7 @@ There is probably some duplication in the videos in this section.
 - [Hagakure](https://www.goodreads.com/book/show/277950.Hagakure?ref=rae_0) translated by William Scott Wilson
 - [Bushido Shoshinshu](https://www.goodreads.com/book/show/44950.Code_of_the_Samurai?ac=1&from_search=true&qid=avwqhNBjnS&rank=1) translated by Thomas Cleary, images by Oscar Ratti
 - [Book of Five Rings](https://www.goodreads.com/book/show/40886418-the-complete-musashi?from_search=true&from_srp=true&qid=Ios4XSEnJh&rank=3) new translation by Alex Bennett
-- [The Live Giving Sword](https://www.goodreads.com/book/show/364734.The_Life_Giving_Sword) by Yagyu Munenori
+- [The Live Giving Sword](https://www.goodreads.com/book/show/364734.The_Life_Giving_Sword) by Yagyu Munenori translated by William Scott Wilson
 
 ---
 
