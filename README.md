@@ -154,8 +154,9 @@ Many of these books can be purchased used, but some are exceptionally rare.
   - [Essentials of Aikido Vol 2](https://www.youtube.com/watch?v=4Q-wtopf3UQ)
 - [Shoji Nishio Playlist, including a 7 volume series course](https://www.youtube.com/playlist?list=PLdqd63ojD06uWepmygOTT5CKoEohFNY_z)
 - [Donovan Waite - Ukemi - Meeting the Mat](https://www.youtube.com/watch?v=Bv7sHrZ0yGs)
-- [Robert Frager - Floating Bridge of Heaven Pt 1](https://www.youtube.com/watch?v=wof9sSZ4lpg)
-- [Robert Frager - Floating Bridge of Heaven Pt 2](https://www.youtube.com/watch?v=WxvAw23B6Xo)
+- Robert Frager:
+  - [Floating Bridge of Heaven Pt 1](https://www.youtube.com/watch?v=wof9sSZ4lpg)
+  - [Floating Bridge of Heaven Pt 2](https://www.youtube.com/watch?v=WxvAw23B6Xo)
 - [Penny Bernath Zoom Aikido Class IAF Campaign](https://www.youtube.com/watch?v=vK63bNyuhQU)
 - [Moriteru Ueshiba - 7 Volume Video Series Kihon](https://www.youtube.com/watch?v=ppz74vR1fbY&list=PLFL16jAsuVuYhl_Tji4DGQ7KVg8aEbJcP)
 - [Ueshiba Family Kihon](https://www.youtube.com/watch?v=KRQIpDFB5eE)
