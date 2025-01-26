@@ -327,9 +327,9 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 
 ## Misc
 
-- [Aikido Street Story](https://www.youtube.com/watch?v=ZVDV_4xDh4o) - [Behind the Scenes]([url](https://www.youtube.com/watch?v=fedBJBIsYmE)
-- [Aikido Street Story 2](https://www.youtube.com/watch?v=lMiE45OmQNM) - [Making of]([url](https://www.youtube.com/watch?v=R7KY57tRdgE)
-- [Aikido Street Story 3](https://www.youtube.com/watch?v=YG3zw5FRJ-Y) - [Making of]([url](https://www.youtube.com/watch?v=RBHQENTu4ww))
+- [Aikido Street Story](https://www.youtube.com/watch?v=ZVDV_4xDh4o) - [Behind the Scenes](https://www.youtube.com/watch?v=fedBJBIsYmE)
+- [Aikido Street Story 2](https://www.youtube.com/watch?v=lMiE45OmQNM) - [Making of](https://www.youtube.com/watch?v=R7KY57tRdgE)
+- [Aikido Street Story 3](https://www.youtube.com/watch?v=YG3zw5FRJ-Y) - [Making of](https://www.youtube.com/watch?v=RBHQENTu4ww)
 - [Master Ken's opinion of Aikido](https://www.youtube.com/watch?v=CdQc79oBNgI)
 - [Aikido Promo](https://www.youtube.com/watch?v=6K8jSe8bGkg)
 - [Fudebakudo](https://www.fudebakudo.com/index)
