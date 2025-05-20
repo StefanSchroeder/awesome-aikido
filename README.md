@@ -50,6 +50,7 @@ Feel free to comment, share, and contribute.
   - [Stanley Pranin introduces "Aikido History 101"](https://www.youtube.com/watch?v=FXXdl5gjSKk)
   - [Morihei Ueshiba's Daito-ryu Aikijujutsu Teaching Certification](https://www.youtube.com/watch?v=72JuZp54L2w) 
   - [Morihei Ueshiba and Sokaku Takeda](https://www.youtube.com/watch?v=b9R0PNwcrUw)
+  - [Morihei Ueshiba meets Sokaku Takeda](https://www.youtube.com/watch?v=_4rTe93uij0)
   - [Morihei Ueshiba O-Sensei toys with a young Morihiro Saito in Iwama!](https://www.youtube.com/watch?v=nXMJx1ZoK-M)
   - [An introduction to Koichi Tohei](https://www.youtube.com/watch?v=oDLTeruzbsg)
   - [Noriaki Inoue: Aikido's forgotten pioneer](https://www.youtube.com/watch?v=Ui5DIHA1mgo)
