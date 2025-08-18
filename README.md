@@ -327,6 +327,16 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 
 ---
 
+## Weapon Making
+
+- https://www.wikihow.com/Make-a-Bokken
+- https://www.militaria.co.za/nmb/topic/4821-how-many-types-of-bokuto-available/
+- https://www.kendo-sport.de/Kendo/Bokken/Bokken-und-Saya-Set-Standard::40.html
+- https://www.facebook.com/Kenjutsu.Samurai.Argentina/posts/bokken-%E6%9C%A8%E5%89%A3-boku-madera-y-ken-sable-o-un-bokut%C5%8D-%E6%9C%A8%E5%88%80-como-se-los-llama-en-jap%C3%B3n-es-u/1415850495232566/
+- https://www.seidoshop.com/blogs/the-seido-blog/31-choosing-your-bokken-size-weight-shape-wood
+
+---
+
 ## Misc
 
 - [Aikido Street Story](https://www.youtube.com/watch?v=ZVDV_4xDh4o) - [Behind the Scenes](https://www.youtube.com/watch?v=fedBJBIsYmE)
