@@ -336,6 +336,9 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 - https://www.seidoshop.com/blogs/the-seido-blog/31-choosing-your-bokken-size-weight-shape-wood
 - http://www.yasasii-ko.jp/shop/moku/boku2.htm
 - https://www.bokken-shop.de/de/bokken/
+- https://www.youtube.com/watch?v=TvbS_4p7Jy8 (Part 1)
+- https://www.youtube.com/watch?v=QtZWw7arbaY (Part 2)
+- https://www.youtube.com/watch?v=G9PhSsAiZCs
 
 ---
 
