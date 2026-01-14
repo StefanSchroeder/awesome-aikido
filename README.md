@@ -163,7 +163,8 @@ Many of these books can be purchased used, but some are exceptionally rare.
 - [Ueshiba Family Kihon](https://www.youtube.com/watch?v=KRQIpDFB5eE)
 - [Tamura Nobuyoshi, techniques du grand maître de l'aïkido](https://www.youtube.com/watch?v=KRQIpDFB5eE)
 - [Seiichi Sugano Playlist](https://www.youtube.com/playlist?list=PLe8dMeupuxj8s0WqBbbAgrCHmimetRP4j)
-- [Way Of The Warrior - Aikido](https://www.youtube.com/watch?v=vUQe0Z_PEnc) An English documentary, introducing Aikido (Tomiki) and Kendo. 
+- [Way Of The Warrior - Aikido](https://www.youtube.com/watch?v=vUQe0Z_PEnc) An English documentary, introducing Aikido (Tomiki) and Kendo.
+- [Seigo Yamaguchi Class](https://www.youtube.com/watch?v=1ZB9cPvmNDE)
 
 ### Historical footage
 
