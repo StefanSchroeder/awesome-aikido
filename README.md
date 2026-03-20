@@ -344,11 +344,15 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 
 ---
 
+## Clothing
+
+- https://www.oldjapan.org/menskimono/hakama-knot-ten.html
+
 ## Other Making
 
 - https://japan-avenue.com/blogs/japan/japanese-patterns
 - https://www.sinonome-japan.com/en/85-katana-bag-katana-case
-- https://stevenefbrown.com/2019/04/29/making-an-iaito-bag/
+  https://stevenefbrown.com/2019/04/29/making-an-iaito-bag/
 - https://alchemistdiaries.com/2024/03/11/diy-sword-bag-for-bokken-and-shinai/
 - https://karlottapink.de/japanische-stoffe-meterware
 - https://furoshiki.news
