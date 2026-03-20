@@ -346,7 +346,14 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 
 ## Clothing
 
-- https://www.oldjapan.org/menskimono/hakama-knot-ten.html
+- https://www.oldjapan.org/menskimono/hakama-knot-ten.html Put on the hakama incl. figure ten knot
+- https://www.youtube.com/watch?v=VvmeBX26OMk Put on the hakama, by Guilleaume Erard
+- https://www.youtube.com/watch?v=f5rgjYKTbXU Fold the hakama, by Seido
+- https://www.youtube.com/watch?v=O-eFGnVhuRw Tie the belt, by Seido
+- https://www.youtube.com/watch?v=hQEeesfCTHc Fold the gi
+- https://www.youtube.com/watch?v=mT9bLCrCmBE Washing the gi and hakama
+- https://www.youtube.com/watch?v=GA5IwD39Jvg Tie the kaku obi
+- https://www.youtube.com/watch?v=MR90nsQuauE Wearing the hakama with kaku obi
 
 ## Other Making
 
