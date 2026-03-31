@@ -355,7 +355,7 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 - https://www.youtube.com/watch?v=GA5IwD39Jvg Tie the kaku obi
 - https://www.youtube.com/watch?v=MR90nsQuauE Wearing the hakama with kaku obi
 
-## Other Making
+## Other Making - Sewing
 
 - https://japan-avenue.com/blogs/japan/japanese-patterns
 - https://www.sinonome-japan.com/en/85-katana-bag-katana-case
@@ -363,6 +363,12 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 - https://alchemistdiaries.com/2024/03/11/diy-sword-bag-for-bokken-and-shinai/
 - https://karlottapink.de/japanische-stoffe-meterware
 - https://furoshiki.news
+
+## Other Making - Woodwork
+
+- https://brianholcombewoodworker.com/2026/01/22/a-japanese-tea-room-on-the-mainline/
+- https://www.myjapaneseteahouse.com/
+- https://www.daikuwoodworking.com/teahouse2.html
 
 ---
 
