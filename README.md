@@ -140,7 +140,7 @@ Many of these books can be purchased used, but some are exceptionally rare.
 - Saotome Mitsugi:
   - [The Principles of Aikido](https://www.youtube.com/watch?v=x_ozInaKpLI)
   - [Sword of Aikido](https://www.youtube.com/watch?v=5fu-7zRBUp0)
-  - [Two Swords of Aikido](https://www.youtube.com/watch?v=e_zLACjj5fw)
+  - Two Swords of Aikido
   - [Staff of Aikido](https://www.youtube.com/watch?v=4F_02li14k8)
   - [Oyo Henka Waza](https://www.youtube.com/watch?v=apjIDRWAr5I)
 - Morihiro Saito:
@@ -355,16 +355,18 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 - https://www.youtube.com/watch?v=GA5IwD39Jvg Tie the kaku obi
 - https://www.youtube.com/watch?v=MR90nsQuauE Wearing the hakama with kaku obi
 
-## Other Making - Sewing
+## Sewing
 
 - https://japan-avenue.com/blogs/japan/japanese-patterns
 - https://www.sinonome-japan.com/en/85-katana-bag-katana-case
-  https://stevenefbrown.com/2019/04/29/making-an-iaito-bag/
+- https://stevenefbrown.com/2019/04/29/making-an-iaito-bag/
 - https://alchemistdiaries.com/2024/03/11/diy-sword-bag-for-bokken-and-shinai/
 - https://karlottapink.de/japanische-stoffe-meterware
 - https://furoshiki.news
 
-## Other Making - Woodwork
+---
+
+## Woodwork
 
 - https://brianholcombewoodworker.com/2026/01/22/a-japanese-tea-room-on-the-mainline/
 - https://www.myjapaneseteahouse.com/
