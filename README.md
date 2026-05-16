@@ -58,6 +58,7 @@ Feel free to comment, share, and contribute.
   - [The Martial Artistry of Seigo Yamaguchi ](https://www.youtube.com/watch?v=4sPXc427ZHM)
   - [Remembering Seigo Yamaguchi, "Master of Balance"](https://www.youtube.com/watch?v=OOnWSaS3upk)
 - [Article: Remembering Stanley Pranin](https://aikidojournal.com/2017/04/28/remembering-stan-pranin/)
+- [Article: Koichi Tohei's early career](https://aikidojournal.com/2016/01/13/an-overview-of-koichi-toheis-early-aikido-career-by-stanley-pranin/)
 
 ---
 
@@ -112,7 +113,11 @@ Many of these books can be purchased used, but some are exceptionally rare.
   - [Atemi](https://www.goodreads.com/book/show/29726727-atemi)
   - [Aikido Ground Fighting](https://www.goodreads.com/book/show/16071844-aikido-ground-fighting?ref=nav_sb_ss_1_13)
   - [Training with the Master, Lessons with Morihei Ueshiba](https://www.goodreads.com/book/show/288949.Training_with_the_Master?ref=nav_sb_ss_1_22)
-    
+
+- [Shifflet: Aikido Exercises for Teaching and Training](https://books.google.de/books?id=zathYcL-as0C&lpg=PA190&dq=tenkan&pg=PA175#v=onepage&q=tenkan&f=false)
+- [DeMarco: Aikido article Anthology](https://books.google.de/books?id=62oQEAAAQBAJ&lpg=PP1&dq=tenkan&pg=PP1#v=onepage&q&f=false)
+- [Clum: Aiki Goshin ho jujutsu](https://books.google.de/books?id=62oQEAAAQBAJ&lpg=PP1&dq=tenkan&pg=PP1#v=onepage&q&f=false)
+  
 ---
 
 ## Videos
