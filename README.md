@@ -171,6 +171,7 @@ Many of these books can be purchased used, but some are exceptionally rare.
 - [Way Of The Warrior - Aikido](https://www.youtube.com/watch?v=vUQe0Z_PEnc) An English documentary, introducing Aikido (Tomiki) and Kendo.
 - [Seigo Yamaguchi Class](https://www.youtube.com/watch?v=1ZB9cPvmNDE)
 - [Moriteru Ueshiba Sensei at NY Aikikai's 60th Anniversary Summer Camp](https://www.youtube.com/watch?v=bYn8cMGF3pU)
+- [A Class with Hiroshi Ikeda sensei](https://www.youtube.com/watch?v=9r_v-jw7DHQ)
 
 ### Historical footage
 
