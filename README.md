@@ -391,6 +391,7 @@ If you asked me, all books by Dave Lowry should be required reading (except perh
 - [Master Ken's opinion of Aikido](https://www.youtube.com/watch?v=CdQc79oBNgI)
 - [Aikido Promo](https://www.youtube.com/watch?v=6K8jSe8bGkg)
 - [Fudebakudo](https://www.fudebakudo.com/index)
+- [Ogasawara-Ryu Reiho Video on NHK](https://www.youtube.com/watch?v=dyBrckphgdE) and the [homepage of the Ogasawara-Ryu](https://www.iccho-ogasawara-ryu.com/)
 
 ---
 
