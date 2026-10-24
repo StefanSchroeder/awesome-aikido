@@ -117,7 +117,6 @@ Many of these books can be purchased used, but some are exceptionally rare.
   - [Aikido Ground Fighting](https://www.goodreads.com/book/show/16071844-aikido-ground-fighting?ref=nav_sb_ss_1_13)
   - [Training with the Master, Lessons with Morihei Ueshiba](https://www.goodreads.com/book/show/288949.Training_with_the_Master?ref=nav_sb_ss_1_22)
 
-- [Shifflet: Aikido Exercises for Teaching and Training](https://books.google.de/books?id=zathYcL-as0C&lpg=PA190&dq=tenkan&pg=PA175#v=onepage&q=tenkan&f=false)
 - [DeMarco: Aikido article Anthology](https://books.google.de/books?id=62oQEAAAQBAJ&lpg=PP1&dq=tenkan&pg=PP1#v=onepage&q&f=false)
 - [Clum: Aiki Goshin ho jujutsu](https://books.google.de/books?id=62oQEAAAQBAJ&lpg=PP1&dq=tenkan&pg=PP1#v=onepage&q&f=false)
   
@@ -148,7 +147,7 @@ Many of these books can be purchased used, but some are exceptionally rare.
 - Saotome Mitsugi:
   - [The Principles of Aikido](https://www.youtube.com/watch?v=x_ozInaKpLI)
   - [Sword of Aikido](https://www.youtube.com/watch?v=5fu-7zRBUp0)
-  - Two Swords of Aikido
+  - [Two Swords of Aikido](https://www.youtube.com/watch?v=lFV2rF714ys)
   - [Staff of Aikido](https://www.youtube.com/watch?v=4F_02li14k8)
   - [Oyo Henka Waza](https://www.youtube.com/watch?v=apjIDRWAr5I)
 - Morihiro Saito:
